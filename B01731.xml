@@ -1,0 +1,2611 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bottle of holy tears, or, Jeremies threnes and lamentaions for Israels misery and Ierusalems woefull desolation, metrically and metaphrastically laid out in verse, explaining plainely the meaning of the prophet in his lamenting phrases. Very suitable to these times, wherein we have a call every day to learne the lessons of Englands lamentation, warre and plague having made a strong entrance into divers parts of the land, and leane famine and desolation knocking at the doore for entrance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01731</idno>
+            <idno type="STC">Wing B3811A</idno>
+            <idno type="STC">ESTC R173018</idno>
+            <idno type="EEBO-CITATION">51784404</idno>
+            <idno type="OCLC">ocm 51784404</idno>
+            <idno type="VID">174826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174826)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2701:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bottle of holy tears, or, Jeremies threnes and lamentaions for Israels misery and Ierusalems woefull desolation, metrically and metaphrastically laid out in verse, explaining plainely the meaning of the prophet in his lamenting phrases. Very suitable to these times, wherein we have a call every day to learne the lessons of Englands lamentation, warre and plague having made a strong entrance into divers parts of the land, and leane famine and desolation knocking at the doore for entrance.</title>
+               </titleStmt>
+               <extent>[7], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Broad,</publisher>
+                  <pubPlace>Yorke, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped, faded, with loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jeremiah --  (Biblical prophet) --  Laments --  Poetry.</term>
+               <term>Laments in the Bible --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174826:1"/>
+            <pb facs="tcp:174826:1"/>
+            <p>A BOTTLE OF HOLY TEARS, OR, Jeremies Threnes and Lamentations for Iſraels miſery and Ieruſalems woefull deſolation, Metri<g ref="char:EOLhyphen"/>cally and Metaphraſtically laid out in Verſe, explai<g ref="char:EOLhyphen"/>ning plainely the meaning of the Prophet in his lamenting Phraſes. Very ſuitable for theſe times, wherein we have a call every day to learne the Leſſon of <hi>Englands</hi> Lamentation, Warre and Plague having made a ſtrong entrance into divers parts of the Land, and leane Famine and Deſo<g ref="char:EOLhyphen"/>lation knocking at the doore for entrance.</p>
+            <q>Therefore ſaid I, looke away from me, I will weep bitterly, labour not to comfort me, becauſe of the ſpoyling of the daughter of my people, <bibl>
+                  <hi>Eſay 22.4.</hi>
+               </bibl>
+            </q>
+            <q>Conſider ye and call for the mourning-women, and ſend for the cun<g ref="char:EOLhyphen"/>ning-women, that they may come, and teach your daughters wailing, and every one her neighbour Lamentation, <bibl>
+                  <hi>Jer. 9.17, &amp; 19.</hi>
+               </bibl>
+            </q>
+            <p>YORKE, Printed by <hi>Tho. Broad,</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174826:2"/>
+            <pb facs="tcp:174826:2"/>
+            <head>To the godly Reader that underſtands what theſe times are, and practiſes <hi>Jeremies Lamentations</hi> with a ſorrowing and ſenſible heart.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N that day, (ſaid the Prophet <hi>Eſay,</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 22.12.</note>) did the Lord God of hoſtes call to weeping and to mourning, and to baldneſſe, and to girding with ſackcloth, in this day he calls for the ſame, for this is the day of <hi>Iacobs</hi> trouble. What he calls for, theſe Verſes, as blacke as the Inke they are writ withall calls for alſo.<note place="margin">Nazian. <hi>1.</hi> pacificat.</note> 
+               <hi>Nazian<g ref="char:EOLhyphen"/>zen</hi> confeſſes, he never read theſe lamen<g ref="char:EOLhyphen"/>ting lines of <hi>Ieremy,</hi> but with a lamen<g ref="char:EOLhyphen"/>ting heart, and with overflowing teares in his eyes. Not onely <hi>Ie<g ref="char:EOLhyphen"/>remies</hi> but ours are lamentable dayes, and doe challenge our Thre<g ref="char:EOLhyphen"/>nodies and mourning Verſes. We have our ſorrowfull Doctor <hi>Iere<g ref="char:EOLhyphen"/>my,</hi> and the Doctrine is our owne, or the Application rather comes home to us, our Jeruſalem being on a fire, our Temples waſte, our Elders and Prophets gone into Captivity, our Magiſtrates none to be found ſitting in the gates, our Merchants are weary of the Land, and ſay it is more tempeſtuous then the ſea, they beare duſt and aſhes upon their heads, our Virgines are defloured by an heard of Goates. <hi>Rachel</hi> weepes for her children, and will not be comforted, becauſe they are not. Every one eates the fleſh of his owne arme, <hi>Manaſſeh</hi> is againſt <hi>Ephraim,</hi> and <hi>Ephraim</hi> againſt <hi>Manaſſeh,</hi> and both againſt <hi>Iudah.</hi> O the cruell and unmercifull dealings of the men of theſe dayes, as if it were not onely true that the <hi>Engliſh</hi> were not onely gone to live among the Cannibals in <hi>New-England</hi> but a Colony of Cannibals were brought thence to devoure, and banquet with mans fleſh in <hi>Old-England.</hi> O Lord to us belongeth confuſion of face, to our Kings, to our Princes, and to our Fathers, becauſe we have ſinned againſt thee.<note place="margin">
+                  <hi>Dan.</hi> 9.8.</note> If there were true judgement given of our calamities what they are, it might be reſolved thus and that
+<pb facs="tcp:174826:3"/>juſtly, that the iniquity of the Throne, the Inxurie of the Palates, the oppreſſions of the Tribunals, the prophaneneſſe of the Sanctu<g ref="char:EOLhyphen"/>ary, the ungodlineſſe of the ſtreet and market, are all met toge<g ref="char:EOLhyphen"/>ther in one, and have called forth the juſtice of God to plague us, and to be revenged on ſuch a Nation as this. Wee have heard of fours great judgements the Lord threatens to great ſinners, wilde beaſts and thoſe we have, belluine, brutiſh and bitter men, that need not learne in the wilderneſſe but ſet up a Lecture in the deſert to the Tygers and Leopards to teach them to deſtroy and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare in pieces, and for the other three, <hi>limos, lointos,</hi> and <hi>polemos,</hi> Famine, Plague, and War, (woe unto us that we have ſinned,) they have ſaid of the Land, Here will we dwell, for we have a delight therein. The Lord teach us the leſſon of theſe dayes to lament and turne unto him. O all you careleſſe ſoules that paſſe by, that have ſome eaſe and qui<g ref="char:EOLhyphen"/>et, when all the Land is ſteeped in bitterneſſe, and lies in the breach of the wrath of the Almighty, how can you goe with ſuch a dry Summer in your eyes? Is it nothing to you, that the Land mourns, the Church hangs up her Harp on the Willow trees. Sion ſorrowes, <hi>England</hi> and <hi>Ireland</hi> are bidding farewell to their broken hartſtrings, behold and ſee if there be any ſorrow like <hi>Englands</hi> ſorrow, where<g ref="char:EOLhyphen"/>with the Lord hath afflicted her in the day of his fierce wrath. Come and vie teares with the weepers, bow your heads and eyes to the wounded, that having part in her ſorrowes, when ſhe findes comfort you may challenge a part in her joyes. For as none could goe into the Temple of Honour, but they muſt paſſe thorow the Temple of Vertue; ſo certainly it will come to paſſe that none ſhall enter into the glorious Temple of the Churches joy, but they that goe thorow the cloſet of mourning, earneſtly bewailing both our ſins,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſay</hi> 66.10.</note> and Gods peoples ſufferings. Rejoyce with Jeruſalem and be glad with her, all ye that love her: Rejoyce for joy with her, all ye that mourne for her. To this purpoſe I have plainly and ſim<g ref="char:EOLhyphen"/>ply ſet upon my owne heart, and laboured to ſtrike fire with <hi>Iere<g ref="char:EOLhyphen"/>mies</hi> flint and ſteele, that ſome of his compaſſionate ſorrow might take hold on me in the midſt of the paſſions of the Lords inheri<g ref="char:EOLhyphen"/>tance, and doe thinke the endeavour,<note place="margin">
+                  <hi>Nahum</hi> 2.7. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ck.</hi> 7.16.</note> be it never ſo meane, honeſt and good in calling upon others to learne to be Doves, tabring up<g ref="char:EOLhyphen"/>on their breaſts, and mourning in the vallies. The Prophets mea<g ref="char:EOLhyphen"/>ning I have followed with a Metricall and Metaphraſticall inter<g ref="char:EOLhyphen"/>pretation, ſometimes taking a Poeticall licenſe to be more large,
+<pb facs="tcp:174826:3"/>but alwayes following the Propheticall ſenſe. Nor is it ſtrange that Lamentation ſhould be in Verſe and Poetry, the Prophet writ it ſo in Hebrew meeter, ſpending foure Alphabets of Hebrew Let<g ref="char:EOLhyphen"/>ters,<note place="margin">Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Epiſt <hi>115.</hi> ad Pau<g ref="char:EOLhyphen"/>lam Vrbi</note> (ſomewhat like the 119. <hi>Pſ. lme,</hi>) about it, the manner of Verſe inoſt reſembling a Trimeter Sapphicke. Why not ſorrow in Verſe when <hi>Davids</hi> Penitentiall, full of the wormewood of repentance in' 51. <hi>Pſalme,</hi> was vented in mournfull Poetry, and had more water of godly ſorrow in it, then the ſpring had Elementary water, in which <hi>Bathſhebah</hi> bathed? If from this Prophets Threnes,<note place="margin">Peluſi. epiſt. <hi>298.</hi> Lib. <hi>1.</hi> Lucae C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no<g ref="char:EOLhyphen"/>biarchae.</note> who was <hi>pro<g ref="char:EOLhyphen"/>phetoon polyp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>theſtatos,</hi> the moſt calamitous of all the Prophets. I ſhall but gaine ſome few hearts, with holy and ſorrowing ſenſe by compaſſion, to lament the paſſions of the Lords people. I ſhall re<g ref="char:EOLhyphen"/>joyce, becauſe wet ſeed carried out has a promiſe of ſheaves to be reaped and brought home triumphantly. The Verſe is neither Sce<g ref="char:EOLhyphen"/>nicall nor Cynicall, but plaine and paſſionate;<note place="margin">Lacbrymoſae p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mata pup<g ref="char:EOLhyphen"/>pi. Perſ. Mat. <hi>5.</hi> Eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>57.18.</hi>
+               </note> not Martials Verſe to breake the Diaphragme with laughter, but like <hi>Puppius</hi> his Verſe, the Cloth and Fringe all teares. <hi>Englands</hi> ſtate is ſinfull and mour<g ref="char:EOLhyphen"/>full, the Lord teach us tomourne, that the next Meſſage, we have from the Lord may be that of Chriſt, Bleſſed are you that mourne, for you ſhall be comforted. I will reſtore comforts to you, and to the Mourners.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:174826:4"/>
+            <head>Of the Name, the Argument, the Book, and the Author.</head>
+            <p>BEyond all doubt it is, that <hi>Jeremy</hi> was the Author of this Booke. He was the penne in the hand of the Holy Ghoſt, by which this Booke was written. Of all the Books in Scripture, this about the Author falls under the leaſt queſtion.<note place="margin">Caſſanae in Caral. glor. mund.</note> The Ienes call the Book <hi>Echa,</hi> from the firſt word <hi>Quo<g ref="char:EOLhyphen"/>modo,</hi> as the French (it is thought) call their <hi>Salique Law,</hi> from the two firſt words, <hi>Si aliqua.</hi> The Hebrew Doctors and Rabbins call it <hi>Cinoth,</hi> that is Lamentations. Of the Greeks it is called <hi>Threnoi,</hi> becauſe the mat<g ref="char:EOLhyphen"/>ter of it is Lamentable, the name of it is ſuitable, <hi>Lamentations.</hi> The Iews uſe to read this Scripture by the preſcription of their Rabbins,<note place="margin">Pet. a figue<g ref="char:EOLhyphen"/>iro in Lam. Jer. in Ca. 1.</note> the <hi>9.</hi> day of <hi>July,</hi> or the moneth <hi>Ab</hi> in their Synagogues, becauſe that day Iſrael fell Ieruſalem and the Temple were burnt. In the Greek and the Roman Bibles, the Booke begins with this proeme added to it, And it came to paſſe after Iſ<g ref="char:EOLhyphen"/>rael was carried into Captivity, and Ieruſalem was laid deſart, that the Prophet <hi>Jeremy</hi> ſate and lamented with this Lamentation over Ieruſalem, and ſaid, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>How doth, &amp;c.</hi> Some thinke this Booke not to be a ſingle one of it ſelfe, <milestone type="tcpmilestone" unit="unspecified" n="2"/> but a part of <hi>Jeremies</hi> large Propheſies, and to go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on with it. <hi>Ju<g ref="char:EOLhyphen"/>nius</hi> and <hi>Tremelius</hi> thinke it to be the Booke of Lamentations made at <hi>Jo<g ref="char:EOLhyphen"/>ſiah<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> funerall <hi>2 Chron. 35.</hi> Now whether there were two Bookes of La<g ref="char:EOLhyphen"/>mentations will fall under queſtion. Sure it is, that much of the Iewes mi<g ref="char:EOLhyphen"/>ſery came haſting on after <hi>Joſiahs</hi> death, ſo as the ſorrow for him turned in<g ref="char:EOLhyphen"/>to a proverbiall of great mourning,<note place="margin">Zach. 12, 10</note> or the mourning of <hi>Hadadrimmon. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.</hi> But for that it ſhould be the Booke that underwent the penknife, and the martyrdome of fire by <hi>Jehojakim, Jer 36.</hi> needs not far to be ſought after, ſeeing there was much matter of prediction, here onely of deploration. It re<g ref="char:EOLhyphen"/>mains to conclude that it contains as a bottle <hi>Jeremies</hi> tears, wherewith he bewasles the wretched eſtate of the Iewes and Ieruſalem, writing an Epi<g ref="char:EOLhyphen"/>taph upon that dying City, whoſe miſery he ſaw begun at <hi>Joſiahs</hi> death, and foreſaw her great deſolation inſtant and imminent; yea, preſſing faſt onward under <hi>Zedekiah,</hi> in War, Famine, cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell Tyranny, and all evils, within the predicament of miſery and prevailing enemies. By this writing he acts La<g ref="char:EOLhyphen"/>mentation, confeſſion of ſinne, appeale to Gods mercy, deprecates judgement, layes open Gods juſt wrath, Iſraels unjuſt wayes, thereby both exciting his owne people, and giving an example and a leſſon to all people, to learne how to repent and turne to God, when he in his judgement is turned againſt them. He being a Prophet, it not onely ſtayes at that deſtruction by Babylonians un<g ref="char:EOLhyphen"/>der <hi>Zedekiah</hi> and <hi>Jehoiachin,</hi>
+               <note place="margin">Jer. 52.</note> but withall fore-tells, fore-ſces, and fore-bewailes Ieruſalem, and Iewes deeper downefall by <hi>Titus</hi> and the Romans.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174826:4"/>
+            <head>The Lamentations of the Prophet <hi>IEREMIE</hi> Metrically Meraphraſed.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <div type="paraphrase">
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 1. COme ſee and wonder how great Zion ſits</l>
+                     <l>In ſad aloneneſſe, lately her fair ſtreets,</l>
+                     <l>were fill'd with populous throngs. Now none wil woo</l>
+                     <l>Poor forlorn Widow, none make love unto her</l>
+                     <l>
+                        <note n="(a)" place="bottom">Cat me ſoelicemtoties jactaſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> amici? Qui ceeidit Rabilinon er<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> ille gradu. Boetide conſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</note> How had ſhe all Nations knees? her ears were bleſt her</l>
+                     <l>With name of Princeſſe, ſervant now at beſt.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 2. Sad day's oft eas'd by night, when as kind ſleep</l>
+                     <l>Stops up tears Bottle: but her ſorrows keep</l>
+                     <l>Their watry courſe both with the Moon and Sun,</l>
+                     <l>Her Cheeks are water Chanels where floods run:</l>
+                     <l>Her eyes no ſtanding Ponds, but flowing Springs;</l>
+                     <l>
+                        <note n="(b)" place="bottom">
+                           <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>vers have forgotten thee, they ſeek thee not, for I have wounded th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>k <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>. 30.14.</note> Yet no friend viſits, no Lover comfort brings:</l>
+                     <l>Once many a name, and face of loving friends,</l>
+                     <l>Now low eſtate begins, their friendſhip ends.</l>
+                     <l>Diſloy all love's ſoon chang'd from amity</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 3. By adverſe ſtate, to perverſe enmitie</l>
+                     <l>Judah is ſtript of all her Soveraignty,</l>
+                     <l>And captive led in great ſervility:</l>
+                     <l>Amongſt the Heatheniſh routs this holy flock</l>
+                     <l>Doth lead a reſtleſſe life with Pagan folk.</l>
+                     <l>In vain heart wiſhes to eſcape, hope waits,</l>
+                     <l>The enemies have caught her in ſuch ſtraits.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 4. The wayes to Zion crowded with holy gueſts,</l>
+                     <l>Which yearly came to keep her ſolemn feaſts,</l>
+                     <l>Pathwayes and gates now languiſhing lament,</l>
+                     <l>Becauſe few feet there tread, none them frequent:</l>
+                     <pb n="2" facs="tcp:174826:5"/>
+                     <l>The Prieſts are prodigall of ſighs, and moan,</l>
+                     <l>Depris'd of holy Office, Virgins groan,</l>
+                     <l>Deeply afflicted: Zion knowes no leſſe,</l>
+                     <l>Herſelf in gulphed in great bitterneſſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 5 Beyond all this, her enemies doe command,</l>
+                     <l>Shee muſt obey, they have the upper hand.</l>
+                     <l>Her ſins this ſcourge to the Lords hand did reach,</l>
+                     <l>When the Word's rejected then the Rod ſhall teach.</l>
+                     <l>Hee many ſius theſe many ſorrowes bred,</l>
+                     <l>For this her children now are Captive led.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 6. That face of beauty, which Zion did renowne,</l>
+                     <l>Like all her bliſſe is gone, uncomely growne.</l>
+                     <l>As ſtragling Harts her Princes are become,</l>
+                     <l>Wandring for food being paſture-pincht at home.</l>
+                     <l>The ſtrong purſuers doe them ſtrengthleſſe drive</l>
+                     <l>'Cainſt powerfull force poor weakneſſe cannot ſtrive.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 7. But O that miſery,<note n="(c)" place="bottom">O that I were as in moneths paſt, as in the dayes when god preſerved me, when I waſhed my ſteps with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>, and the rockes powred me out rivers of oyle, Iob 29.2, &amp; 6. Memoria foelicitatis ptaeteritae he<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ire infaelititat.</note> once to have happy been,</l>
+                     <l>Torments the memory of Jeruſalem.</l>
+                     <l>Of ſorrowes children this is eldeſt ſonne,</l>
+                     <l>To ſay of former joyes, thoſe dayes are done.</l>
+                     <l>Her quondam pleaſures ſhe recounts full ſad,</l>
+                     <l>In deep affliction, which before ſhe had,</l>
+                     <l>Till th' inundation of her enemies power,</l>
+                     <l>Which hath her land, ſelfe, people, all run o're.</l>
+                     <l>Help none appeares. Her enemies ſeeing it, mock,</l>
+                     <l>Yea her bleſt Sabbaths are their laughing ſtock.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 8. Deeply ſhe ſin'd, therefore ſhe deeply ſmarts,</l>
+                     <l>And Vagrant-like, wanders in forraine parts.</l>
+                     <l>They that had waxen knees, in ſigne of honour</l>
+                     <l>Rowing, doe now deſpiſe, cry fie upon her.</l>
+                     <l>Becauſe they ſee her nakedneſſe, with ſcorne</l>
+                     <l>They thinke to cloath her. She, as one forlorne.</l>
+                     <l>Drawes out her ſoule in ſighes, her face ſhe hides.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 9. In her fonle skirts pollution much abides.</l>
+                     <l>Wherefore from high, thus low ſhe did deſcend,</l>
+                     <l>Becauſe ſhe quite forgot her latter end:</l>
+                     <l>No Comforter appeares. O Lord behold</l>
+                     <pb n="3" facs="tcp:174826:5"/>
+                     <l>My miſeries ſwelling tide, whiles enemies bold</l>
+                     <l>Lift up themſelves in pride.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 10. They make their prey</l>
+                     <l>All her delights which hand can ſnatch away.</l>
+                     <l>Nay, Lord, thy Sanctuary, that holy place,</l>
+                     <l>Which all unhallowed feet of Heathen race,</l>
+                     <l>Thou didſt inhibit to enter, theſe ſhe ſees</l>
+                     <l>Pollute that ſacred pavement, which bow'd knees</l>
+                     <l>Of worſhipping Saints did kiſſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 11. See what rate bears</l>
+                     <l>One little loaf of bread, when ſighes and tears</l>
+                     <l>Of th' people cannot buy it. For pittance ſmall</l>
+                     <l>Of meat, which might the flitting ſoule recall</l>
+                     <l>To fainting body one day more to live,</l>
+                     <l>Their coſtlieſt jewelrie they doe freely give.</l>
+                     <l>My piteous caſe conſider, Lord, meane while,</l>
+                     <l>See how in every eye I am counted vile.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 12. O heavens! Are men turn'd flints, their heart<g ref="char:EOLhyphen"/>ſtrings braſs?</l>
+                     <l>Has earth no bowels left? O<note n="(d)" place="bottom">Have pity upon me, have pity upon me, O ye my friends, for the hand of god hath touched me, lob. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> hoceſt dolentium, ut laborem ſuum to majorem caeteris aeſtimant, quo aliorum <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> non cog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oſcunt, quia quanto plus dolorem ſuum ſentiunt, tanto minus ali rum hulc a dae<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> your in loc.</note> you that paſſe</l>
+                     <l>With marbled ruthleſſe hearts, and by me goe,</l>
+                     <l>Lending no pity to condole my woe.</l>
+                     <l>Is all compaſſion fled? O that I were</l>
+                     <l>Among the ſweating ſtones, they'd drop a teare</l>
+                     <l>Amidſt my groanes, and ſeeme to ſympathize,</l>
+                     <l>Whiles men goe on with juy celeſſe pumice eyes.</l>
+                     <l>Ah unaffected ſtocks, behold and ſee,</l>
+                     <l>If e're you knew miſeries hyperbole</l>
+                     <l>Climbe up ſo high. See how diſpleaſed God</l>
+                     <l>Has printed all my fleſh with his angry rod,</l>
+                     <l>In blew and livid letters, all my read</l>
+                     <l>A Lecture of his wrath falne on my head.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 13. Each member beares ſome mark of his fierce ire,</l>
+                     <l>Within my bones he hath inclos'd a fire,</l>
+                     <l>It feeds on me as fuell. 'Tis no boot!</l>
+                     <l>For me to flee, a ſnare hath caught my foot.</l>
+                     <l>Turn'd backward, deſolate, fainting I remaine</l>
+                     <l>Till th' Sun from Eaſt hath rid to watry maine.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 14. My ſins are bundled altogether in one,</l>
+                     <pb n="4" facs="tcp:174826:6"/>
+                     <l>And like an Iron yoke, or heavy ſtone,</l>
+                     <l>Laid on my neck, how am I preſſed downe?</l>
+                     <l>All ſtrength and vigour is departed, gone.</l>
+                     <l>In enemies hands the Lord hath lockt me ſure,</l>
+                     <l>Whence to eſcape are left no meanes, or power.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 15. In midſt of th' land my worthies, men of might,</l>
+                     <l>The Lord hath ſtampt, and trodden under feet.</l>
+                     <l>Againſt my young men he hath led a band,</l>
+                     <l>Which cruſh and ſpoile that flower of my land:</l>
+                     <l>
+                        <note n="(e)" place="bottom">As when grapes are preſſed all their juyce runs out: ſo the Lord hath trampled me to pieces in his anger, and ſqueazed out all my bloud and moyſture. Eſay 63.2, 3.</note> The virgin daughter of Judah is preſſed ſore,</l>
+                     <l>As grapes in wine-preſſe, drown'd in purple gore.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 16. Therefore mine eyes, mine eyes their rivers ſpend</l>
+                     <l>And like to thriftleſſe Prodigals make an end</l>
+                     <l>Of all their watry ſtore, becauſe ſo far,</l>
+                     <l>I am remov'd from my bleſt Comforter,</l>
+                     <l>That ſhould relieve my ſoule. My children lie</l>
+                     <l>Moſt deſolate by prevailing tyrannie.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 17. Zion ſpreads forth her hands, yet none draw neer</l>
+                     <l>To ſolace her. Jacob is drown'd in feare</l>
+                     <l>Of circling enemies, which have hedg'd him round</l>
+                     <l>At Gods command. This is Jeruſalems wound,</l>
+                     <l>
+                        <note n="(f)" place="bottom">Lev. 18.19. Thou ſhalt not ap<g ref="char:EOLhyphen"/>proach to a woman to uncover her nakedneſſe, as long as ſhe is put apart for her uncleanneſſe.</note> Like women in pollutions all</l>
+                     <l>her flie,</l>
+                     <l>Shee is ſeparate from all ſocietie.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 18. Lord thou art juſt, I from thy Law have ſwerv'd,</l>
+                     <l>And thou haſt puniſht, all this I deſerv'd.</l>
+                     <l>Draw neere all people, O ſee, and heare I pray</l>
+                     <l>My ſad laments, and ſorrowes gloomy day.</l>
+                     <l>My beauteous Maides and Young-men captives goe,</l>
+                     <l>Forme, face and feature cannot bribe the foe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 19. O<note n="(g)" place="bottom">E<g ref="char:EOLhyphen"/>gyptians and others that the Iewes truſted in for helpers, Ier. 43. Ier. 44.11, 12. My brethren have dealt deceitfully as a brooke, and as the ſtreames of brookes they paſſe away. Iob 6.15.</note> you my lovers, whoſe</l>
+                     <l>promiſes kiſt the skie,</l>
+                     <l>Where are your windy vowes? will none draw nie,</l>
+                     <l>Have all deceiv'd? None anſwer at my call?</l>
+                     <l>Ah my poore Prieſts and Elders, how they fall,</l>
+                     <l>Breathing their finall gaſpes whiles they ſeek meat,</l>
+                     <l>They fall downe famiſht in the open ſtreet.</l>
+                  </lg>
+                  <pb n="5" facs="tcp:174826:6"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 20. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> thou thine eyes, O Lord, to my diſtreſſe,</l>
+                     <l>My rolling bowels, I cannot expreſſe,</l>
+                     <l>And toſſing heart, what griefe doth them perplex,</l>
+                     <l>For my rebellions did my God much vex.</l>
+                     <l>No face of ſafety is ſeen, ſword ſcornes the ſheath,</l>
+                     <l>Killing abroad, at home no gueſt but death,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 21. Slaying by famine. All my foes do know</l>
+                     <l>How I doe ſigh and ſorrow laid full low,</l>
+                     <l>Diſconſolate. 'Tis matter of joy to them,</l>
+                     <l>To ſee black clouds hang o're Jeruſalem.</l>
+                     <l>But Lord their courſe is next when mine is done,</l>
+                     <l>Their day comes on when they ſhall have my roome.</l>
+                     <l>I know when thou haſt tryed and humbled me,</l>
+                     <l>Thou'wilt uſe the rod to ſcourge mine enemie.</l>
+                     <l>When I have drunk thine angers bitter cup,</l>
+                     <l>As I have din'd, ſo ſhall mine enemies ſup.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 22. Set all their wickedneſſe before thy face,</l>
+                     <l>Make them decline afflictions in my caſe:</l>
+                     <l>As I have ſin'd ſo have they, let them ſmart</l>
+                     <l>As I have ſmarted. For my fainting heart</l>
+                     <l>Is ready to breake thorow theſe walles of clay</l>
+                     <l>with bouncing ſobs, thus ſpend I every day.<note n="*" place="bottom">Haec eſt regula mund, ut non det bonum prandium, niſictiam det malam coenam. Stella de con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> mundi, Lib. 1. cap, 5,</note>
+                     </l>
+                  </lg>
+               </div>
+               <div type="biblical_text">
+                  <pb n="1" facs="tcp:174826:4"/>
+                  <q>
+                     <p>
+                        <hi>Verſe. 1.</hi> HOw doth the city ſit ſoli<g ref="char:EOLhyphen"/>tary that was ful of people how is ſhe become as a Widdo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ſhe that was great among the N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tions, and Princeſſe among th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Provinces, how is ſhe become tr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> butary?</p>
+                     <p>
+                        <hi>Verſe. 2</hi> Shee weepeth ſore in that night, and her tears are on her<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> cheels: among all her lovers ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> hath none to comfort her, all her friends have dealt treacheron <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> with her, they are become h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> enemies.</p>
+                     <p>
+                        <hi>Verſe. 3</hi> Judah is gone into capti<g ref="char:EOLhyphen"/>vity, becauſe of affliction, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> becauſe of great ſervitude: ſhe dwelleth among the Heathen, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> findeth no reſt; al her perſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> toues overtooke her between <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſtraits.</p>
+                     <p>
+                        <hi>Verſe. 4</hi> The wayes of Zion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> mourn, becauſe none come to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſolemn feaſts: all her gates <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <pb n="2" facs="tcp:174826:5"/>deſolate: her Prieſts ſigh: her Virgines are afflicted, and ſhe is in bitterneſſe.</p>
+                     <p>
+                        <hi>Verſe. 5</hi> Her adverſaries are the chief her eu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ies proſper: for the Lord hath afflicted her; for the multi<g ref="char:EOLhyphen"/>tude of her tramigreſſims, he chil<g ref="char:EOLhyphen"/>dren are gone into captivity before the enemy.</p>
+                     <p>
+                        <hi>Verſe. 6.</hi> And from the daughter of Zien all her beauty is departed: her Princes are become like Harte, that finde no paſture, and they are gone without ſtrength before the purſuer.</p>
+                     <p>
+                        <hi>Verſe. 7.</hi> Jeruſalem remembred in the dayes of her affliction, and of her miſeries, a I her pleaſant things that ſhee had in the dayes of old, when her people fell into the hand of the enemy, and none did help her, the adverſaries ſaw her, and did mocke at her Sabbaths.</p>
+                     <p>
+                        <hi>Verſe. 8.</hi> Ieruſalem hath grievouſly finned, therefore ſhe is removed: all that honoured her, deſpiſe her, becauſe they have ſoon her naked<g ref="char:EOLhyphen"/>neſſe: yea, ſhe figheth and turneth backward.</p>
+                     <p>
+                        <hi>Verſe. 9.</hi> Her filthineſſe is in her skirts, ſhe remembreth not ber laſt end, therefore ſhe came down won<g ref="char:EOLhyphen"/>derfully: ſhe had no comforter: O
+<pb n="3" facs="tcp:174826:5"/>Lord, behold my affliction for the enemy hath magnified himſelfe.</p>
+                     <p>
+                        <hi>Verſe. 10.</hi> The adverſary hath ſpread out his hand upon all her pleaſant things: for ſhe hath ſeen that the beathen entred into her Sanctus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ary, whom thou diddeſt command that they ſhould not enter into thy congregation.</p>
+                     <p>
+                        <hi>Verſe. 11.</hi> All her people ſigh, they ſeeke bread, they have given their pleaſant things for meat to re<g ref="char:EOLhyphen"/>lieve the ſoule: ſee, O Lord, and conſider: for I am become vile.</p>
+                     <p>
+                        <hi>Verſe. 12.</hi> Is it nothing to you, all ye that paſſe by? behold and ſee, if there be any ſorrow like to my ſorrow, which is done unto me, wherewith the Lord hath affli<g ref="char:EOLhyphen"/>cted me, in the day of his fierce wrath.</p>
+                     <p>
+                        <hi>Verſe. 13.</hi> From above hath he ſent fire into my bones, and it prevai<g ref="char:EOLhyphen"/>leth againſt them: be hath ſpread a net for my feet, he hath turned me backe: he hath made me de<g ref="char:EOLhyphen"/>ſolate, and faint all the day.</p>
+                     <p>
+                        <hi>Verſe. 14.</hi> The yoke of my tranſgreſſi<g ref="char:EOLhyphen"/>ons is bound by his hand <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> they are wreathed, &amp; come up upon my
+<pb n="4" facs="tcp:174826:6"/>necke: he hath made my ſtrength to fall, the Lord hath delivered me into their hands, from whom I ſhall not be able to riſe up.</p>
+                     <p>
+                        <hi>Verſe. 15.</hi> The Lord hath tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dden under fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> all my mith men in the mad leſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the hath called an aſſembly againſt me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> cruſh my <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. The Lord <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> righter of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</p>
+                     <p>
+                        <hi>Verſe. 16.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> that ſhou <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> far from me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> children are deſo<g ref="char:EOLhyphen"/>late bee <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the enemy y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nled.</p>
+                     <p>
+                        <hi>Verſe. 17.</hi> Zion ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ea leth forth her hands, &amp; there is name to comfore her: the Lord hath commanded concerning Iacob, that his adver<g ref="char:EOLhyphen"/>ſaries ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uld be round about him; Ieruſalem is as a menſtruous wo<g ref="char:EOLhyphen"/>man among them.</p>
+                     <p>
+                        <hi>Verſe. 18.</hi> The Lord is righteous, for I have rebelled againſt his com<g ref="char:EOLhyphen"/>mandement: heare, I pray you, all people, and behold my ſorrow: my virginis and my young men are gone into captivity.</p>
+                     <p>
+                        <hi>Verſe. 19.</hi> I called for my lovers, but they deceived me: my Prieſts and mine Elders gave up the ghoſt in the city, while they ſought their meat to relieve their ſoules.</p>
+                     <pb n="5" facs="tcp:174826:6"/>
+                     <p>
+                        <hi>Verſe. 20.</hi> Behold, O Lord, for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> I in diſtreſſe: my bowels are troubled: mine heart is turned within me, for I have grievouſly rebelled: abroad the ſword here<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> veth, at home there is death.</p>
+                     <p>
+                        <hi>Verſe. 21.</hi> They have heard that I ſigh, there is none to comfort me: all mine enemi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s have heard of my trouble, they are glad that thou haſt done it: thou will bring the day that thou haſt cal<g ref="char:EOLhyphen"/>led, and they ſhall be like un<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> me.</p>
+                     <p>
+                        <hi>Verſe. 22.</hi> Let all their wickedneſſe come before thee: and doe unto them, as thou haſt done unto me for all my tranſgreſſions: for my ſighs are many, and my heart it faint.</p>
+                  </q>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <div type="paraphrase">
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 1. WIth what a duskie cloak of foggie cloud</l>
+                     <l>Is Zion clad, which doth her glory ſhroud,</l>
+                     <l>And teneb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ize her beames? The angry Lord</l>
+                     <l>Hath kickt her down from Heaven as one abhor'd.</l>
+                     <l>Shee now lies ſoyl'd in duſt, whom once right well</l>
+                     <l>Each tongue did ſtile the Beauty of Iſrael.</l>
+                     <l>In wrath he doth forget, and cleane forſake</l>
+                     <l>His goodly<note n="(h)" place="bottom">The Arke of the covenant is called gods footſtoole, 1 chron, 28, 2, Pſalme 132, 7, It is called his drength, and his glory, Pſalme 78, 61,</note> footſtoole. He doth riddance make</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 2. Of Jacobs ſtock, which iſſued from him,</l>
+                     <l>They are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wallowed up without all pitying.</l>
+                     <pb n="6" facs="tcp:174826:7"/>
+                     <l>Judahs ſtrong holds he hath battered to ground</l>
+                     <l>Defil'd their kingdome, and their King diſcrown'd.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 3. His peoples flouriſhing<note n="(i)" place="bottom">Whatſoever is ſtrong and high and excollent it is called an horne in Scripture, It is drawne from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eaſts, whoſe hornes are thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſtrength, and are their ornament: Horne of David, Pſalme 132, Horne of ſalvation, Luke 1, 69,</note> horne on high ſet up,</l>
+                     <l>In anger is all broke, aſunder cut.</l>
+                     <l>His ſtrong right hand, of nations ſo well knowne</l>
+                     <l>For Iſraels onely help, is now withdrawne.</l>
+                     <l>Round about Jacob his fiery fury burnes,</l>
+                     <l>Like raging flame it all to aſhes turnes.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 4. The Lord, as man of war, his bow hath bent,</l>
+                     <l>Whence never fruſtrate arrow yet was ſent.</l>
+                     <l>Zions moſt excellent ones, joy to the eye</l>
+                     <l>Once to behold them, now in duſt doe lie,</l>
+                     <l>Brought downe and ſlaine by his moſt mighty hand,</l>
+                     <l>Whoſe wrath like fire is powr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d out on the Land.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 5. Iſraels palaces, forts are all deſtroy'd,</l>
+                     <l>Quite ſwallow'd up, ſo much as erc ſhe joy'd</l>
+                     <l>Shee ſorrowes now. Poore Judahs common ſong</l>
+                     <l>Are mournfull Threnes and Lamentation.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 6. He hath remov'd his Tabernacle thence</l>
+                     <l>With violent hand, the lands ſecureſt fence,</l>
+                     <l>Now its a hedgleſſe garden. Empty, voyd,</l>
+                     <l>Are places of aſſemblies, lately cloy'd</l>
+                     <l>And ſurfetting with throngs, ſo many gueſts</l>
+                     <l>Did come to celebrate her holy Feaſts.</l>
+                     <l>Theſe Sabbaths<note n="*" place="bottom">Malè iſti populo accidit, ubi Sabbatha Sabbathum habent, Levit: 26, 43,</note> ſolemne dayes are now forgot,</l>
+                     <l>Both Kings and Prieſts are ceas'd, whoſe holy lot</l>
+                     <l>Was Altar-ſervice: theſe deſpis'd are gone,</l>
+                     <l>Remov'd by God in indignation.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 7. The Altar is caſt off and Sanctuary</l>
+                     <l>Abhor'd, the palaces given to th' enemy:</l>
+                     <l>When<note n="(k)" place="bottom">qui non audiunt attente concionem verbi Dei ſonantem, coguntut audire militem bombarbâ to<g ref="char:EOLhyphen"/>nantem: Tarnovius in locum</note> pious ſoules on ſolemne dayes before</l>
+                     <l>In the Lords houſe did meet for to adore,</l>
+                     <l>They gave an heavenly ſound in Pſalmes and praiſe,</l>
+                     <l>There now alas the roaring enemies raiſe</l>
+                     <l>An impious heatheniſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oyſe, like that for ſound,</l>
+                     <l>But not for ſenſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> harmony. To the ground</l>
+                  </lg>
+                  <pb n="7" facs="tcp:174826:7"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 8. Zions faire walls muſt fall, the Lord hath paſt</l>
+                     <l>His purpoſe for it. Yea his line is caſt</l>
+                     <l>And ſtretch't upon't: his hand he doth not turne</l>
+                     <l>From utter ruine. He hath taught to<note n="(l)" place="bottom">Ier, 14, 2, See Ioel 1, 10, 12, Where when the field is waſted, the land mourneth:</note> mourne</l>
+                     <l>The walls and ramparts, as if they had ſenſe</l>
+                     <l>To tune ſad ditties for foes violence.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 9. Both gates &amp; bars are broke, and ſunk in ground</l>
+                     <l>Yea all her Kings and Princes wander round</l>
+                     <l>The Gentiles Countrey. Holy Law's no more,</l>
+                     <l>
+                        <note n="(m)" place="bottom">Dicunt Rabbini, pro<g ref="char:EOLhyphen"/>phetia neque inter triſtitiam, ne que inter pigritiam habitat: &amp; prophetia ceſſat tempore perſecutiones &amp; exilii: Moſes Maimonid: in more Nevochin.</note> Prophets want viſions which they had before.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 10. Zions grave Elders<note n="(n)" place="bottom">Manner of mourners to cover their heads with duſt &amp; aſhes, as it were confeſſing they are not worthy to live, and worthy to be laid in the graves and have duſt thrown<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on them.</note> on the earth are laid,</l>
+                     <l>And earth is laid on them, for every head</l>
+                     <l>Is crown'd with aſhes, duſt, all ſilent, ſad.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ackcloth is th' only Robe wherewith they are clad.</l>
+                     <l>Jeruſalems virgins, ripe with griefe and feares,</l>
+                     <l>Walk with down hanging heads like ripened eares.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 11. O eyes, your welſprings fail and watry ſtore,</l>
+                     <l>My troubled bowels within are panged ſore:</l>
+                     <l>My<note n="(o)" place="bottom">He cleaveth my rei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es aſunder and doth not ſpare; hee powreth cut my gall upon the ground. Iob 16.13. If I enter into the city, then behold them that are ſick with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> amine, Ie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 14.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> liver as liquor is powr'd out on the earth,</l>
+                     <l>Becauſe ſo great a famine, murderous dearth</l>
+                     <l>Doth on the daughter of my people lie,</l>
+                     <l>The ſilly ſucklings famiſht faint and die.</l>
+                     <l>In every ſtreet their little corps lie ſpread,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 12. They cry upon their mothers, give us bread,</l>
+                     <l>We pine, we periſh, who will our hunger ſtay?</l>
+                     <l>One drop of wine to queneh our thirſt we pray.</l>
+                     <l>Poore babes in vaine do cry and pule and crave,</l>
+                     <l>Whiles mothers want to give what they would have.</l>
+                     <l>Onely in mothers boſome they ſwoon and die,</l>
+                     <l>And laid in ſtreet preach pity to each eye.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 13. What ſhall I take or ſeek to earths utmoſt hem,</l>
+                     <l>To witneſſe for thee, O Jeruſalem?</l>
+                     <l>Rhetorique is bankrupt, thou haſt begger'd th' Arts,</l>
+                     <l>Ovirgin daughter of Zion, all their parts</l>
+                     <l>Cannot ſimilitudes coyne fit to expreile</l>
+                     <pb n="8" facs="tcp:174826:8"/>
+                     <l>Thy dolours deluge, all compares are leſſe</l>
+                     <l>Inferiour much to thine. Could I but fetch</l>
+                     <l>Example parallell from ſome diſmall wretch,</l>
+                     <l>Hence this ſmall glimpſe of comfort thou mighſt ſee,</l>
+                     <l>Thou we<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> not ſingula<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in miſery.</l>
+                     <l>Yet to the Sea thy ſad eſtate compar'd,</l>
+                     <l>Some part by that rude ſhadow is declar'd.</l>
+                     <l>As thoſe proud ſwelling waves the banks or'e reach,</l>
+                     <l>Levelling high-creſted earth with many a breach,</l>
+                     <l>And fearfull ruptures: thus tho waves of woe</l>
+                     <l>Broke in upon thee, and ore run thee ſo,</l>
+                     <l>As for thy breach ſmall hopes of help remaine,</l>
+                     <l>Nothing can ſtop when waves ſlow in amaine.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 14. Fie<note n="(o)" place="bottom">Dreaming prophets, Ier. 23.23. Daubing prophets E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>k. 22.28. cuſhion &amp; pillow prophets, or elbow and armhole prophets Ez<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap> 18 Quam ration. mchriſto reddent miniſtri corum, qui ipſorum culp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> perierunt, vel quia tacenda dixerunt, vel quia dicenda tacuerunt? Figveiro in Mal. Hicroſolymas de<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ruxerunt prophete titulis Italicis, a Epiſc Landenſis Epiſc Adulenſis Epiſc placentinius</note> on all oylie Serm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ns; flattering tongues,</l>
+                     <l>Of ſweet-run'd Prophets, that can ſing no ſongs</l>
+                     <l>But peace and ſafety. How could Zion ſtand</l>
+                     <l>When pleaſe-eare Preachers did infect her Land?</l>
+                     <l>All's well cry they, thou haſt ſome ſins indeed,</l>
+                     <l>Yet deſolating vaſtations no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e we reade</l>
+                     <l>In all our viſions. Fooliſh things and vaine</l>
+                     <l>They ſee, but ſee not ſin bring captives chaine.</l>
+                     <l>Had they ſet our Zions abhorred wayes,</l>
+                     <l>And all her ſins, ſhe had not ſeen theſe dayes</l>
+                     <l>Of ſad captivity, but their wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s they ſpent,</l>
+                     <l>To ſift falſe cauſes of her baniſhment.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 15. Behold the paſſengers that traveil by</l>
+                     <l>Doe wag their heads, clap hands and hi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ing cry,</l>
+                     <l>Loe yonder ruin'd turrets, piles of ſtone,</l>
+                     <l>Was the worlds beauty and perfection</l>
+                     <l>Of all earths glorions Fabriches. Can this be</l>
+                     <l>Jeruſalems City we demoliſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ce?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 16. See how thine enemies together flocke,</l>
+                     <l>To vent the venome of their mouthes, they mocke:</l>
+                     <l>Some Serpent-like doe hiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c, ſome Dog-like grin,</l>
+                     <l>Every one ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ive the Scorners prize to win,</l>
+                     <l>In acting beſt upon Deriſions ſtage,</l>
+                     <l>See, ſee, ſhee's falne cry they in ſcornefull rage,</l>
+                     <pb n="9" facs="tcp:174826:8"/>
+                     <l>She's ſwallowed up: the day, the day is come</l>
+                     <l>Of her woes, and our wiſhes; a ſad doome.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 17. This is the time wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>okt for, long expeſted,</l>
+                     <l>Gods purpoſe and dev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e is now effected.</l>
+                     <l>Long ſince he threatned he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> for ſinne of old:</l>
+                     <l>His wrath ſulfills what's patience did with-hold.</l>
+                     <l>She's tumbled downe, no piteous <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ngu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Draws ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r, heef<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s rej<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ice, their ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n's made arong</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 18. In the Lords c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rs their h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rts aloud did cry,</l>
+                     <l>O wall of Zion never more be dry:</l>
+                     <l>Let ſlouds ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>es, nee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> let ſleeps key</l>
+                     <l>Look up <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eill eſſenigh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and day.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 19. Ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e up and b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ak thy mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>night <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſt,</l>
+                     <l>In nightly watches powre <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ut he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d breſt</l>
+                     <l>Before the Lord in Prayers h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld hands on high,</l>
+                     <l>Crying, O ſave<note n="(p)" place="bottom">Dent 28 53 T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ou thalt eat the ſru't of thine own bod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, the fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h of thy ſons and daughters in the ſieg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> and ſtraitneſſe wherewith thine enemies ſhall d'ſtred<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> d<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>.</note> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> babes which fainting lie,</l>
+                     <l>Stab'd through with hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ger at h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ad of every ſtreet.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 20. O L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d hehold a miſerab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t,</l>
+                     <l>A ſpect cle of wee, neverd d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eye</l>
+                     <l>Read ſad ler Argument of Tragedy.</l>
+                     <l>Shall<note n="(q)" place="bottom">In the famine of Ieruſalem Mary a rich &amp; wealthy gentlewoman of per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> a boiled her own ſon to eat him; Ioſephus in 7 book of Iews wars; Hereſ<g ref="char:EOLhyphen"/>ſipp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s bring, her in boldly inviting the Souldie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s that broke in, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ving ſmelt mea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſaying to them I have male you a di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h of meat of my own<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> bowe's: come taſte and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ee how ſweet my ſons fleſh is; Be no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> more maidealy and modeſt then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> mother; what Souldiers more a e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ke and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſtardly them a woman? But the Souldiers ſtayed their ſtomack<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> with <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ot of the fact; Hegeſip. 5. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ook chap 41 When Scipio took Nu<g ref="char:EOLhyphen"/>mantia in Spaine; ſo great was the famine that there were divers mothers ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>und with the bodies of their children in their Iaps; of which they had eaten the halfe; Petion, in ſine Saryt. Vnder the Emperour lu<g ref="char:EOLhyphen"/>ſtinian there was ſo great a famine in Italy that the greateſt part of men and women died for hunger; One ſaith fifty thouſand died by famine in one part of Italy, in ſelo piceno; Two women of ſtrangers that came and lodged at their houſes in their journey had killed 17 at ſeverall times whiles they ſlept; and ha<g ref="char:EOLhyphen"/>ving killed them made them ready and eat them; They attempted it on the 18 but he wakening ended both their famine and lives; Divers mothers then did cooke their owne children for diſhes of mout<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Baronius <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 39 Alſtedius in Theſau to chronol</note> bowell-bleeding mothers take and eat</l>
+                     <l>Their ſpan-long ſucklings? O abh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rred meat?</l>
+                     <l>Alas, their child-bed pangs were ſport and mirth,</l>
+                     <l>
+                        <hi>When travelling throwes fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt brought theſe Infaats fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th,</hi>
+                     </l>
+                     <l>Compar'd with this: when mothers they muſt feed</l>
+                     <l>Upon that fleſh, which their owne fleſh did breed.</l>
+                     <l>O heavy judgement of neceſſity,</l>
+                     <l>Inventing food 'gainſt Na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ures cookery:</l>
+                     <pb n="10" facs="tcp:174826:9"/>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>no bit of ſuch ſad break-faſt's worſe then all</l>
+                     <l>Earths griefes, that under imagination fall.</l>
+                     <l>Shall Prieſts and Prophets ſlaine in Sanct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ary lie,</l>
+                     <l>Finding no refuge, nor no Sanctuary?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 21. Both old and young in open ſtreets lie ſlain,</l>
+                     <l>My virgins and my young men drop like raine,</l>
+                     <l>Falling by ſword: no pity doth thee ſtay</l>
+                     <l>From ſlaught<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing all in this thy wrathfull day.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 22. As at ſome ſolemn time they are grathred all,</l>
+                     <l>Girt round with terrours here and there they fall,</l>
+                     <l>Nothing<note n="(r)" place="bottom">I even I will teare and goe away; I will take away and none ſhall reſcue him Hoſea 5.14</note> eſcapes, for what can ſafe remaine,</l>
+                     <l>When God a day of anger doth proclaime?</l>
+                     <l>My babes the ſolace of my life, which I</l>
+                     <l>Brought up with care and ſwadled, theſe mine eye</l>
+                     <l>(Why have I eyes to ſee it?) ſees a prey,</l>
+                     <l>Unto deſtroying enemies every day.</l>
+                  </lg>
+               </div>
+               <div type="biblical_text">
+                  <pb n="5" facs="tcp:174826:6"/>
+                  <q>
+                     <p>
+                        <hi>Verſe. 1.</hi> HOw hath the Lord cove<g ref="char:EOLhyphen"/>red the daughter of Ziom with a cloud in his anger, and caſt downe from heaven unto the earth the beanty of Iſrael, and remembred no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> his fcotſtoole in the day of his anger?</p>
+                     <p>
+                        <hi>Verſe. 2.</hi> The Lord ſwallowed up all the habitations of Iacob, and hath not pitted: he hath thrown down
+<pb n="6" facs="tcp:174826:7"/>in his wrath the ſtrong hold<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the daughter of Iuda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>: he hath brought them down to the ground hee hath polluted the kingdom and the Princes thereof.</p>
+                     <p>
+                        <hi>Verſe. 3.</hi> He hath cut off in his fieres anger all the horn of Iſrael: he hath drawn back his right band from before the enemy, &amp; be bur<g ref="char:EOLhyphen"/>ned againſt Iacob like a flaming fire whichd v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nreth round about</p>
+                     <p>
+                        <hi>Verſe. 4.</hi> He hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent his bow like an enemy: he ſtood with his right hand as an adverſary, &amp; ſlew all that were pleaſant to the eye, in the Ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ernacle of the daughter of Zion: he poured out his fury like fire.</p>
+                     <p>
+                        <hi>Verſe. 5.</hi> The Lord was an enemy: he hath ſwallowed up Iſrael, he hath ſwallowed up al her palaces: he hath deſtroyed his ſtrong holds &amp; hath in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reaſed in the daughter of Iudamourning &amp; lamentation</p>
+                     <p>
+                        <hi>Verſe. 6. And he hath violently taken a<g ref="char:EOLhyphen"/>way his Tabernacle, as if it were of a garden, he hath deſtroyed his places of the aſſembly; the Lord hath cauſed the ſolemn Feaſts &amp; Sabbaths to be forgotten in Zion; and hath deſpiſed in the indignation of his anger, the King and the prieſt:</hi>
+                     </p>
+                     <p>
+                        <hi>Verſe. 7. The Lord hath caſt off his Al<g ref="char:EOLhyphen"/>tar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> he hath abhorred his Sanctua<g ref="char:EOLhyphen"/>ry: he hath given up into the hand of the enemy the walls of her pala<g ref="char:EOLhyphen"/>ces: they have made a noyſe in the houſe of the Lord, as in the day of a ſolemne feaſt.</hi>
+                     </p>
+                     <pb n="7" facs="tcp:174826:7"/>
+                     <p>
+                        <hi>Verſe. 8.</hi> The Lord hath purpaſed to de<g ref="char:EOLhyphen"/>ſtroy the wall of the daughter of Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>on: he hath ſtretched out a line the hath not withdrawne his hand from deſtroying: therefore he made the rampart and the wall to la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent they languiſhed together.</p>
+                     <p>
+                        <hi>Verſe. 9.</hi> Her gates <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re ſunle into the ground: he hath deſtroyed and bro<g ref="char:EOLhyphen"/>len her barres: her King and her Princes are among the Gentiles: the lawis no more, her Prophets alſo fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d no v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſion from the Lord.</p>
+                     <p>
+                        <hi>Verſe. 10.</hi> The elders of the daughter of Zion ſit upon the ground and leep<g ref="char:EOLhyphen"/>ſilence: they have caſt up duſt upon their beads: hey have girded them<g ref="char:EOLhyphen"/>ſelve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> with ſaclolo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th: the virgins of Ieruſalem hang down their heads to the ground.</p>
+                     <p>
+                        <hi>Verſe. 11.</hi> Mine eyes do faile with tears: my bow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s are troubled: my liver is ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n the earth, for the de<g ref="char:EOLhyphen"/>ſtruction of the daughter of my peo<g ref="char:EOLhyphen"/>ple becauſe the children &amp; the ſuck<g ref="char:EOLhyphen"/>lings ſwoon in the ſtreets of the city.</p>
+                     <p>
+                        <hi>Verſe. 12.</hi> They ſay to their mothers, Where is corn and w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n? when they ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ned as the wounded in the ſireets of the city, when their ſettle was pow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>red out into their mothers b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſome.</p>
+                     <p>
+                        <hi>Verſe. 13.</hi> What thing ſhall I take to witneſſe for thee? what thing ſhal I liken to thee, O daughter of Ieruſa<g ref="char:EOLhyphen"/>lem?
+<pb n="8" facs="tcp:174826:8"/>what ſhall I equall to thee th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> I may comfort thee, O virgin daughter of Zion? for thy breach is great like the Sea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> who can heal thee.</p>
+                     <p>
+                        <hi>Verſe. 14.</hi> Thy Prophets have ſeene vaine a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oliſh things for thee, and they have not diſcovered thine iniquity, to turne away thy capti<g ref="char:EOLhyphen"/>vity: but have ſeen for thee faſe burdens, and cauſes of baniſh<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>
+                        <hi>Verſe. 15.</hi> All that paſſe by clap their hands at thee: <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y viſſe and wag their head at the daughter of Je<g ref="char:EOLhyphen"/>ruſalem, ſaying, Is this the City that men call the perfection of beauty, the jay of the whole earth?</p>
+                     <p>
+                        <hi>Verſe. 16.</hi> All thine enemies have opened their mouth againſt thee: they hiſſe and gnaſh the teath: they ſay, We have ſwallowed her up: certainely this is the day that
+<pb n="9" facs="tcp:174826:8"/>we looked for: wee have found we have ſeen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</p>
+                     <p>
+                        <hi>Verſe. 17.</hi> The Lord hath done that which he had deviſed: bee hath ful<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e his w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d that he had comman<g ref="char:EOLhyphen"/>ded in the dayes of old: hee hath throwne downe, and hath not pitied: and he hath cauſed thine enemy to rejoyce over thee, he hath ſet up the horne of thine adverſaries.</p>
+                     <p>
+                        <hi>Verſe. 18.</hi> Their heart cryed unto the Lord, O wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l of the daughter of Zi<g ref="char:EOLhyphen"/>on, let teares run downe like a river, day and night: give thy ſelfe no reſt, let not the apple of thine eyes ceaſe.</p>
+                     <p>
+                        <hi>Verſe. 19.</hi> Ariſe, cry out in the night: in the beginning <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the watches pon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> out thine heart like water before the face of the Lord: lift up thine hands toward him, for the life of thy young children, that faint for hunger in the top of every ſtreet.</p>
+                     <p>
+                        <hi>Verſe. 20.</hi> Behold, O Lord, and co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſi<g ref="char:EOLhyphen"/>der to whom thou haſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d me this ſhall the women eat their fruit, and chil<g ref="char:EOLhyphen"/>dren of aſpan long? ſhall the Prieſt
+<pb n="10" facs="tcp:174826:9"/>and the Prophet be ſlaine in the San<g ref="char:EOLhyphen"/>ctuary of the Lord.</p>
+                     <p>
+                        <hi>Verſe. 21.</hi> The young and the old lie on the ground in the ſtreets: my virgins and my young men are fallen by the ſword: thou haſt ſlaine them in the day of thy anger: thou haſt killed and not pitied.</p>
+                     <p>
+                        <hi>Verſe. 22.</hi> Thou haſt called as in a ſo<g ref="char:EOLhyphen"/>lemne day by terrours round about, ſo that in the day of the Lords an<g ref="char:EOLhyphen"/>ger, none eſcaped nor remained; thoſe that I have ſwadled &amp; brought up, hath mine enemy conſumed.</p>
+                  </q>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <div type="paraphrase">
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 1. I Am<note n="(s)" place="bottom">I the that of chriſt; A man of ſorrowes orde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>quai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ted with griefe Eſay 53</note> the ſon of ſorrowes, who have ſeen</l>
+                     <l>Afflictions Center, and ſore ſchoold have been</l>
+                     <l>Under Gods ſtinging red.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 2. From lightſom walks</l>
+                     <l>I am brought to ſullen darkneſſe, obſcure vaults.</l>
+                     <l>Depriv'd of joyes of all eye-cheering light.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 3. Surely 'gainſt me God turns himſelfe to fight,</l>
+                     <l>Under his heavy hand I daily groane.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 4. My wrizzeld skin neighbours too neer the bone,</l>
+                     <l>My wrinkled face and fleſh my age belie,</l>
+                     <l>Crowne old with griefe, not years. My bones do lie</l>
+                     <l>Scatte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d and broken.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 5. He has built a wall</l>
+                     <l>'Gainſt me; my eaſe is paine, my ſweets are gall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 6. Cles'd up in cells of darkneſſe am I laid,</l>
+                     <l>Like thoſe whom death long ſince hath priſoners made.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 7. When I would ſcape (croſſe to my hopes) I finde</l>
+                     <l>
+                        <hi>An high thorn</hi>
+                        <note n="(r)" place="bottom">I will bedge up her <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> with thornes and make a wall that ſhe ſhall not finde her pathes Hoſea 3.6</note> 
+                        <hi>hedge, where with the Lord dab binde</hi>
+                     </l>
+                     <pb n="11" facs="tcp:174826:9"/>
+                     <l>And keep me in.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 8. A heavy chaine I beare,</l>
+                     <l>Then doe I cry and ſhout, but where's Gods care?</l>
+                     <l>He ſhuts out all my prayers.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 9. Stops up my way</l>
+                     <l>With hewen ſtones: yea, all my pathes that lay</l>
+                     <l>So ſtraight, are crooked made.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 10. Like hungry Bear:</l>
+                     <l>Or<note n="(u)" place="bottom">Thou hunteſt me as a fierce Lion. Job <hi>10.16.</hi>
+                        </note> greedy Lion lurking cloſe to teare,</l>
+                     <l>And ſeiſe upon ſome prey, he watcht for me.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 11. I walke in uncouth pathes, compell'd to flee:</l>
+                     <l>Peece-meale he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent me, tore me in his hate,</l>
+                     <l>Then leaves me to my ſelfe moſt deſolate.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 12. With<note n="(w)" place="bottom">He hath taken me by the necke, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ken me to peeces, he hath ſet me up for his marke. Job <hi>16.12.</hi>
+                        </note> full bent bow he aimes at me too</l>
+                     <l>Sets me for marke: nor doth he miſſe the white.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 13. O how his arrowes doe increaſe my paines,</l>
+                     <l>Fixing their Iron teeth even in my reines!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 14. To all my people I am made<note n="(x)" place="bottom">Fio repente fabula &amp; lu<g ref="char:EOLhyphen"/>dibrium, &amp; chrioſae ſum tabernae cantio. Buch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nanus. I became aproverbe unto them, I was pheſong of the drunkards. Pſal. <hi>69.11, 12.</hi>
+                        </note> a ſcorne</l>
+                     <l>And ſubject of their ſongs, whiles I doe mourne</l>
+                     <l>They rime all day upon me.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 15. Drunken ſots</l>
+                     <l>Would practiſe temperance at my wormwood pots,</l>
+                     <l>And bitter cups, which I have drunke ſo ſore,</l>
+                     <l>As ſtaggering full, now I can beare no more.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 16. Even as with gravell ſtones my teeth are broke,</l>
+                     <l>I'am roll'd in aſhes, choakt with duſt and ſmoake.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 17. Thou haſt divorc'd a lovely-linked pai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</l>
+                     <l>My ſoule and peace, my proſperous dayes to faire,</l>
+                     <l>Are quite remov'd, drow'nd in oblivion.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 18. That I am forc'd to ſay, my hope is gone.</l>
+                     <l>Yea, periſht from the Lord, all ſtrength extinct,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 19. Whiles I remember how I lie faſt linkt</l>
+                     <l>In ſore affliction, and to minde recall</l>
+                     <l>My daily draughts of wormewood, and of gall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 20. This I remember, and for this my ſoule</l>
+                     <l>Is deeply humbled</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 21 Yea, my heart doth roll,</l>
+                     <l>And buſied ſeekes what ſins doe cauſe my woe:</l>
+                     <l>Ile not deſpaire, for humble hopes doe grow.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 22. O the large ſea of mercies in the Lord,</l>
+                     <l>We merit the edge, he ſtrikes with back of ſword.</l>
+                     <pb n="12" facs="tcp:174826:10"/>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <note n="(y)" place="bottom">Quicquid citra infernum eſt, uitrameritum eſt.</note> his tranſcendent grace which knows no end,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> for our ſins he doth not vengeance ſend,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> alt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erly deſtroy. O mercies rare,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſpare not ſinning, God doth ſmiting pare.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 23. So oft as Sun doth every morning riſe,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> merc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es are p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſented to our eyes.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> faithfull is our God in truth and love<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 24. My<note n="(z)" place="bottom">My lot is falne in a faire place, I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> a goodly herit age, Pſal. <hi>16.6.</hi>
+                        </note> ſoule hath choſen thee, O Lord above,</l>
+                     <l>Whiles others ſeeke for wealth, eaſe, honours ſtore,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ord thou art my portion, I deſire no more,</l>
+                     <l>Therefore Ile hope in him in loweſt ſtate,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 25. For God is good to all that on him waite</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 26. 'Tis a good thing, and piece of rareſt Art,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> darne to waite on God with patient heart.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> with ſoule-calming hopes to reſt poſſeſt,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ill Gods ſaving health be manifeſt.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 27. 'Tis good our ſhoulders be inur'd betime</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> beare Gods yoke even in our youthly prime,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arly acquaintance with Gods ſcourging hand</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ns his ſervants, makes them underſtand.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 28. He ſits alone, with ſilence bolts his lips,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> burſting out into impatient ſits.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> why ſuch burthens he has borne before,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 29. Therefore he's<note n="(a)" place="bottom">
+                           <hi>The godly in afflictions,</hi> ponit in pulvereos ſuum, <hi>as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>, but the ungodly</hi> ponit in coelum os ſuum. <hi>Pſal.</hi> 73.9.</note> ſilent, hopes God wil reſtore.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 30. Unto the ſmiting hand he gives his cheeke,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> filled with reproaches doth not ſeeke</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ny revenge.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 31. This comfort he doth gather,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> may correct, but caſts not off for ever.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 32. For ſome ſhort time his Saints are tried with grief,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> then Gods tender heart, beyond beliefe,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ravells with paine deliverance to ſend,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> endleſſe mercy ſeekes our miſeries end.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 33. Oh how<note n="(b)" place="bottom">Deus non maeſtitia afficit ex <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>orde ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, non ex animo. Tremel. &amp; Jun.</note> unwillingly doth our gracious God</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> forth his hand to take ſins ſmarting rod,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o ſcourge rebellious men.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 34 He hates that might</l>
+                     <l>Which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reades downe thralled captives under feet.</l>
+                  </lg>
+                  <pb n="13" facs="tcp:174826:10"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 35. He doth adhorre unjuſt oppreſſione all,</l>
+                     <l>When greatneſſe brib'd cauſes, right cauſes fall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 36. Againſt all ſuch he ſets his hand and heart,</l>
+                     <l>Who doe the poore in rightfull cauſe ſubvert.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 37 What are mens words, decrees but wind &amp; ſand?</l>
+                     <l>Things onely come to paſſe by Gods command.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 38. What puniſhing evill, or what pleaſing good</l>
+                     <l>Meet we withall, which comes not all from God?</l>
+                     <l>Both come at his decree.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 39. O men mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> vaine,</l>
+                     <l>Why d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e ye murmure, or at all complaine?</l>
+                     <l>No bitter draughts vex us without, within,</l>
+                     <l>Which firſt we did not brew and tunne in ſin.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 40. Let us then in ou ſufferings ſearch and try,</l>
+                     <l>What ſins in heart or life doe cheriſht lie,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 41. Turning to God with lift up hands &amp; heart,</l>
+                     <l>Praying the Father in heaven to eaſe our ſmart.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 42. We Lord have ſinn'd with great rebellion.</l>
+                     <l>Thou ſcourgeſt us with ſharp correction,</l>
+                     <l>Thou ſpar'ſt us not.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 43. But in thy angry mood</l>
+                     <l>Thou ſmiteſt, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>yeſt, covereſt us with bloud,</l>
+                     <l>Yea, thou exc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>udeſt pity.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 44. When our prayers</l>
+                     <l>Are climb'd up to the top of heavenly ſtaires,</l>
+                     <l>Hoping by this aſcent to finde thy grace,</l>
+                     <l>Then doſt thou not aſient, but hid'ſt thy face,</l>
+                     <l>Masked with angers cloud O miſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ies maſſe!</l>
+                     <l>When our poor prayers to Gods eare may not paſſe!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 45. We <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> counted baſe by vileſt raffe of men,</l>
+                     <l>Refuſe and rubbiſh is our beſt eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eeme.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 46. Our e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>emies all have opd their mouth as large,</l>
+                     <l>Venting reproaches with a full diſcharge.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 47. Where is our ſafety? here feare, there a ſnare,</l>
+                     <l>Woes and aſtations our beſt neighbours are.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 48. Mine<note n="(c)" place="bottom">Oh that my head were waters, and mine eyes afountaine of teares, that I might weepe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> and night for the ſlaine of the daughter of my people. Jer. <hi>9.1.</hi>
+                        </note> eyes are full with briny-ſtreaming tears</l>
+                     <l>Becauſe my peoples judgement beats mine cares.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 49. Mine eyes gutter my cheekes, I never ceaſe,</l>
+                     <l>Nor intermit my moane for Zions caſe:</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 50. Untill from heaven the Lord caſt piteous eye</l>
+                     <l>Upon my people in their miſery.</l>
+                  </lg>
+                  <pb n="14" facs="tcp:174826:11"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 51. Mine heart affects mine eyes, mine eyes my heart</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in this wretched conſort know their part. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> daughters of my City to deplore.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 52. Like<note n="(d)" place="bottom">At when one doth hunt a Partridge in the mountaines, <hi>1</hi> Sam. <hi>26.20.</hi> Pſal. <hi>11.1.</hi> Fly a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> to your mountaine.</note> weake-wing'd bird, ſo am I chaſed</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> my fierce foes, and guiltleſſe without crime,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>wk for harmleſſe dove the clouds doth climbe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 53. I lie in dungeons bottome as one dead,</l>
+                     <l>With ponderous preſſing ſtones upon me laid,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſtrangle hopes of life.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 54. I'am drown'd &amp; gone,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> plenty<note n="(e)" place="bottom">Great afflictions are commonly compared to great waters, and wa<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> flands. Pſal. <hi>42.7.</hi> Pſal, <hi>69.1, 2.</hi> Pſal. <hi>124.4, 5.</hi>
+                        </note> of waters have my head o're-flowne,</l>
+                     <l>Which made me ſay, Lord thou haſt done enough,</l>
+                     <l>How am I periſht, I am quite cut off.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 55. Yet in the dungeon deep, Lord I did pray,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd call'd upon thy name.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 56. Turne not away</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ine eare from my ſad ſighes, deep-breathed cries,</l>
+                     <l>know thou heard'ſt me, O let comfort riſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 57. Yea, Lord I gather hopes, for when I prayed,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hou didſt draw neere and ſay, be not affraid.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 58. The cauſes of my ſoul thou haſt pleaded well,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd haſt redeem'd my life from loweſt Hell.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 59. O Lord thou knoweſt my wrongs &amp; injuries,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and up for me and judge mine enemies.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 60. I doe appeale for witneſſe to thine eyes.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ho ſaw their buſie thoughts alwayes deviſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ngeance and malice.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 61.<note n="(f)" place="bottom">Thou haſt knowne my reproach, and my <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> and my diſhonour, all mine adverſaries are before thee. Pſal. <hi>69, 19,</hi>
+                        </note> Their reproaches al</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ine eares have heard, which they on me let fall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 62. <hi>What their curſt lips did vent, who 'gainſt me roſe,</hi>
+                     </l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> plots their hearts invent, O Lord thou knows.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hold their ſitting downe for to conſpire,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> rifing up to act what they deſire.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> their muſicke, their beſt diſh at feaſts</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>on my broken head to breake ſome jeſts.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ey call on minſtrels when they merry be,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>'s heare the Song of Zions miſery,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ruſalems laſt good night. That pleaſant ſtroke</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> enemies ſorrowes, will our ſorrowes choke.</l>
+                  </lg>
+                  <pb n="15" facs="tcp:174826:11"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 64. Render to them, O Lord, a recompence,</l>
+                     <l>According to their deeds and bad intents.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 65. Lay on their wicked hearts thy hardning curſe.</l>
+                     <l>That they may daily grow from ill to worſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 66. Lord in thy wrath deſtroy them, be they dri<g ref="char:EOLhyphen"/>ven</l>
+                     <l>From all abiding undercope of Heaven.</l>
+                  </lg>
+               </div>
+               <div type="biblical_text">
+                  <pb n="10" facs="tcp:174826:9"/>
+                  <q>
+                     <p>
+                        <hi>Verſe. 1. I</hi> Am the man that hath ſeen af<g ref="char:EOLhyphen"/>fliction by the rod of his wrath.</p>
+                     <p>
+                        <hi>Verſe. 2.</hi> He hath led me and brought me, into derknes, but not into light.</p>
+                     <p>
+                        <hi>Verſe. 3.</hi> Surely againſt me is he urned, he turneth his hand againſt me all the day.</p>
+                     <p>
+                        <hi>Verſe. 4.</hi> My fleſh &amp; my skin hath he made old, he hath broken my bones.</p>
+                     <p>
+                        <hi>Verſe. 5.</hi> He hath builded againſt me, and compaſſed me with gall and traoell.</p>
+                     <p>
+                        <hi>Verſe. 6.</hi> He hath ſet me in darke places, as they that be dead of old.</p>
+                     <p>
+                        <hi>Verſe. 7.</hi> He hath hedged me about, that I cannot getout: he hath made my chaine heavy.</p>
+                     <pb n="11" facs="tcp:174826:9"/>
+                     <p>
+                        <hi>Verſe. 8.</hi> Alſo when I cry and ſhout, ſhutteth out my prayer.</p>
+                     <p>
+                        <hi>Verſe. 9.</hi> He hath encloſed my way with hewen ſtone: he hath made my pathes crooked.</p>
+                     <p>
+                        <hi>Verſe. 10.</hi> He was unto me as a bear ly<g ref="char:EOLhyphen"/>ing in waite, and as a Lion in ſecret places.</p>
+                     <p>
+                        <hi>Verſe. 11.</hi> He hath turned aſide my wayes and pulled me in peeces: he hath made me deſolate.</p>
+                     <p>
+                        <hi>Verſe. 12.</hi> He hath bent his bow, and ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> me as a marke for the arrow.</p>
+                     <p>
+                        <hi>Verſe. 13.</hi> He hath cauſed the arrower <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> his quiver to enter into my re<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>.</p>
+                     <p>
+                        <hi>Verſe. 14.</hi> I was a deriſion to all my peo<g ref="char:EOLhyphen"/>ple, and their ſong all the day.</p>
+                     <p>
+                        <hi>Verſe. 15.</hi> He hath filled me with bitter<g ref="char:EOLhyphen"/>neſſe, he hath made me drunken with wormewood.</p>
+                     <p>
+                        <hi>Verſe. 16.</hi> He hath alſo broken my teeth with gravell ſtones, he hath covered me with aſhes.</p>
+                     <p>
+                        <hi>Verſe. 17.</hi> And thou haſt removed my ſoule farre off from peace: I forget proſperity.</p>
+                     <p>
+                        <hi>Verſe. 18.</hi> And I ſaid, My ſtrength and my hope is periſhed from the Lord.</p>
+                     <p>
+                        <hi>Verſe. 19.</hi> Remembring mine affliction &amp; my miſery, the wormwood &amp; the gall</p>
+                     <p>
+                        <hi>Verſe. 20.</hi> My ſoulhe hath them ſtill in remembrance, and is humbld in me.</p>
+                     <p>
+                        <hi>Verſe. 21.</hi> This I recall to my minde, therefore have I hope.</p>
+                     <p>
+                        <hi>Verſe. 22.</hi> It is of the Lords mercies that
+<pb n="12" facs="tcp:174826:10"/>we are not conſumed, becauſe his compaſſions faile not.</p>
+                     <p>
+                        <hi>Verſe. 23.</hi> They are new every morning; great is thy faithfulneſſe.</p>
+                     <p>
+                        <hi>Verſe. 24.</hi> The Lord is my portion, ſaith my ſoule, therefore will I hope in him.</p>
+                     <p>
+                        <hi>Verſe. 25.</hi> The Lord is good unto them that waite for him, to the ſoule that ſeeketh him.</p>
+                     <p>
+                        <hi>Verſe. 26.</hi> It is good that a man ſhould both hope and quietly waite for the ſovation of the Lord.</p>
+                     <p>
+                        <hi>Verſe. 27.</hi> It is good for a man that he beare the yoke in his youth.</p>
+                     <p>
+                        <hi>Verſe. 28.</hi> He ſitteth alone and keepeth ſilence, becauſe he hath borne it upon him.</p>
+                     <p>
+                        <hi>Verſe. 29.</hi> He putteth his mouth in the duſt, if ſo be there may be hope.</p>
+                     <p>
+                        <hi>Verſe. 30.</hi> He giveth his cheeke to him that ſmiteth him, he is filled full with reproach.</p>
+                     <p>
+                        <hi>Verſe. 31.</hi> For the Lord will not caſt off for ever.</p>
+                     <p>
+                        <hi>Verſe. 32.</hi> But though he cauſe griefe, yet will he have compaſſion according to the multitude of his mercies.</p>
+                     <p>
+                        <hi>Verſe. 33.</hi> For he doth not afflict willing<g ref="char:EOLhyphen"/>ly, nor grieve the children of men.</p>
+                     <p>
+                        <hi>Verſe. 34.</hi> To cruſh under his feet all the priſoners of the earth.</p>
+                     <pb n="13" facs="tcp:174826:10"/>
+                     <p>
+                        <hi>Verſe. 35.</hi> To turn aſide the right of a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> before the face of the moſt High.</p>
+                     <p>
+                        <hi>Verſe. 36.</hi> To ſubvert aman in bi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Lord approveth not.</p>
+                     <p>
+                        <hi>Verſe. 37.</hi> Who is he that ſaith, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> commeth to paſſe, when the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> commandeth it not.</p>
+                     <p>
+                        <hi>Verſe. 38.</hi> Ous of the mouth of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> High proceedeth not evill and go<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </p>
+                     <p>
+                        <hi>Verſe. 39.</hi> Wherefore doth a living <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> complaine, a man for the puniſhm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of his ſinnes.</p>
+                     <p>
+                        <hi>Verſe. 40</hi> Let us ſearch and try our <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and turne againe to the Lord.</p>
+                     <p>
+                        <hi>Verſe. 41.</hi> Let us loft up our heart <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> our hands unto Gods the he<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </p>
+                     <p>
+                        <hi>Verſe. 42.</hi> We bout trauſgreſſed and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> rebelled, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n haſt not pardoned.</p>
+                     <p>
+                        <hi>Verſe. 43.</hi> Thou beſt covered with an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and perſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enied us: th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> haſt ſlai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thou baſt not pitied.</p>
+                     <p>
+                        <hi>Verſe. 44.</hi> Thou haſt covered thy ſelf w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> a cloud, that our prayer ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> paſſe thorow.</p>
+                     <p>
+                        <hi>Verſe. 45.</hi> Thou haſt made us at the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſcouring and refuſe in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>idſt the people.</p>
+                     <p>
+                        <hi>Verſe. 46.</hi> All our enemies have op<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> their mouthes againſt us.</p>
+                     <p>
+                        <hi>Verſe. 47.</hi> Feare and aſnare is come up us, deſolation and deſtruction.</p>
+                     <p>
+                        <hi>Verſe. 48.</hi> Mine eye ranneth down <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> rivers of water, for the deſtruction the danghter of my people.</p>
+                     <p>
+                        <hi>Verſe. 49.</hi> Mine eye trickleth down <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ceaſeth not, without any inter miſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </p>
+                     <p>
+                        <hi>Verſe. 50.</hi> Till the Lord looke down, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> behold from heaven.</p>
+                     <pb n="14" facs="tcp:174826:11"/>
+                     <p>
+                        <hi>Verſe. 51.</hi> Mine eye aſſecteth mine heart becauſe of all the daughters of my city.</p>
+                     <p>
+                        <hi>Verſe. 52.</hi> Mine enemies chaſed me ſore like a bird, without cauſe.</p>
+                     <p>
+                        <hi>Verſe. 53.</hi> They have cut off my life in the dungeon, and caſt a ſtone upon me.</p>
+                     <p>
+                        <hi>Verſe. 54.</hi> Waters flowed over mine head, then I ſaid, I am cut off.</p>
+                     <p>
+                        <hi>Verſe. 55.</hi> I called upon thy name, O Lord out of the low dungeon.</p>
+                     <p>
+                        <hi>Verſe. 56.</hi> Thou haſt heard my voyced hide not thy eare at my breathing, at my cry.</p>
+                     <p>
+                        <hi>Verſe. 57.</hi> Thou dreweſt neere in the day that I called vpon thee: Thou ſaideſt Peare not.</p>
+                     <p>
+                        <hi>Verſe. 58.</hi> O Lord thou haſt pleaded the cauſes of my ſoule, thou haſt redce<g ref="char:EOLhyphen"/>med my life.</p>
+                     <p>
+                        <hi>Verſe. 59.</hi> O Lord, thou haſt ſeene my wrong, judge thou my cauſe.</p>
+                     <p>
+                        <hi>Verſe. 60.</hi> Thou haſt ſeen all their venge<g ref="char:EOLhyphen"/>ance, and all their imaginations a<g ref="char:EOLhyphen"/>gainſt me.</p>
+                     <p>
+                        <hi>Verſe. 61.</hi> Thou haſt heard their reproach O Lord, and all their imaginations againſt me.</p>
+                     <p>
+                        <hi>Verſe. 62.</hi> The lips of thoſe that roſe up againſt me, and their device againſt me all the day.</p>
+                     <p>
+                        <hi>Verſe. 63.</hi> Behold their ſitting down, and their riſing up, I am their muſicke.</p>
+                     <pb n="15" facs="tcp:174826:11"/>
+                     <p>
+                        <hi>Verſe. 64.</hi> Render unto them a recompence O Lord, according to the worke of their hands.</p>
+                     <p>
+                        <hi>Verſe. 65.</hi> Give them ſorrow of heart, thy curſe unto them.</p>
+                     <p>
+                        <hi>Verſe. 66.</hi> Perſecute and deſtroy them in anger, from under the heavens of the Lord.</p>
+                  </q>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IIII.</head>
+               <div type="paraphrase">
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 1. HOw<note n="(g)" place="bottom">Such a queſtion for degenerating by ſin, (as this by affliction) is that of Eſay, <hi>1.21.22.</hi> How is the faithfull city &amp;c.</note> is the gold of Zions glorious frame</l>
+                     <l>Grown dim and dark, not meriting the name</l>
+                     <l>Of mettals monarch? That which gilded was</l>
+                     <l>With ſtar-like burniſht gold, how dull as braſſe;</l>
+                     <l>(Yeelding no gliſtring luſtre to the eye)</l>
+                     <l>Is it become? the heavenly Sanctuary</l>
+                     <l>Caſt downe in every ſtreet may finde her ſtones.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 2. Jeruſalems children, the moſt precious ones,</l>
+                     <l>Paſſing all pearles for price, for beauty gold,</l>
+                     <l>How are they now as cheape as pitchers ſold,</l>
+                     <l>Eſteem'd as Potters ware?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 3. Can any kind</l>
+                     <l>Of Earths or Oceans Animals be unkind,</l>
+                     <l>And cruell as the daughter of Zion is,</l>
+                     <l>Like<note n="(h)" place="bottom">See Job <hi>39, 14, 15, 16.</hi> Contentions there are about this word Oſtrich, ſome will have it, <hi>ſtruthio,</hi> ſome <hi>
+                              <gap reason="illegible" resp="#MURP" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>culus,</hi> ſome <hi>Strix. Vide Cornel. a lap. &amp; Tarn. In Thren. Ierem.</hi>
+                        </note> hardned Oſtrich in the wilderneſſe,</l>
+                     <l>That doth her new hatch'd young forget, forſake?</l>
+                     <l>Yet the Sea-calves as carefull, dammes doe take</l>
+                     <l>Piteous affection, hold dugs to their young.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 4. But here the ſucking-child with glued tongue</l>
+                     <l>To roofe of mouth, dry'd up with thirſt doth cry:</l>
+                     <l>Younglings yell out for bread, ready to die</l>
+                     <l>With extreme hunger. Yea, the dearth's ſo great,</l>
+                     <l>As not one little loafe is left to eat,</l>
+                  </lg>
+                  <pb n="16" facs="tcp:174826:12"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 5. They who before had all delicious fare,</l>
+                     <l>Whoſe trencher rob'd the Earth, the Sea, the Aire,</l>
+                     <l>Now in the ſtreets become the beggers mates,</l>
+                     <l>Wiſhing the fragments of their ancient cates.</l>
+                     <l>The<note n="(i)" place="bottom">Thus the great and glorious Belliſarius for whom in a triumph money was coynd and throwne among the people, with this poſie on it, <hi>Bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>iſarius the glory of the Ro<g ref="char:EOLhyphen"/>mant,</hi> yet afterwards he was caſt ſo low, as both his eyes were put out, and he daily beg<g ref="char:EOLhyphen"/>ged his bread in the temple of S. <hi>Sopbia,</hi> often uſing this ſpeach, Give I pray one loaf of bread to <hi>Belliſ. rine,</hi> whom vertue exalted hie, and envie has throwne down as low, <hi>Pezel. Mellific. Hiſtor. in Iuſtin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>an.</hi> 1. Thus <hi>Hormiſda</hi> a Perſian-Noble came from ſcarlet to the dung-hill, for in that he would not deny Chriſt his Saviour the Son of God, he was by the Perſian tyrant <hi>Iſdigerdes</hi> deſpoyled of all his riches and honour, and clothing, and turn'd naked, ſave there was given him one peaſants garment to cover him, and caſt into the baſe ſervitude of leading Camels, and ſerving as ſome hoſtler. Theodor in Hiſt. Eccleſ. Lib. 5. cap. 39.</note> ſcarlet ſirs, which on beds downe-hils laid,</l>
+                     <l>Poore wretches now, their beds are dung-hils made.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 6. For Sions puniſhment exceedeth far</l>
+                     <l>Sodoms deſtruction, there is no compare.</l>
+                     <l>Their ſins were<note n="(k)" place="bottom">Cito periiſſe beneficii eſt imago.</note> ſcourged with a fiery laſh,</l>
+                     <l>But yet that judgement paſſed in a flaſh,</l>
+                     <l>Made quicke diſpatch, and ſwallowed them up all;</l>
+                     <l>This ſpun in length, like dripping raine doth fall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 7. Her Nazarites, thoſe ſober votaries,</l>
+                     <l>Whom neither ſnow nor milke could equalize</l>
+                     <l>For pureſt white, whoſe faces did appeare</l>
+                     <l>Ruddier then Rubies, poliſht and more cleare</l>
+                     <l>Then any Saphires, now that glorie's gone:</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 8. Their faces bracke as coale, not to be knowne</l>
+                     <l>Of knowne familiars. Skin cleaves to the bone,</l>
+                     <l>No fleſh remaines to make partition.</l>
+                     <l>Like age in others is juycie, ſucculent,</l>
+                     <l>Theſe wither'd, dry as ſticks, all moyſture ſpent.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 9. Death opes an eaſier gate for them by far,</l>
+                     <l>Who loſe the<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> aime of life by ſword of war,</l>
+                     <l>Then thoſe whom<note n="(l)" place="bottom">Fames ultimum malorum omnium. Am Marcellin. Hiſtor. lib. 19. Quantum eſt in vobis fame, miſexima omnium morte, confeciſtis. Saluſt, in fragment. Epiſt. Pompeii ad Senat.</note> lingring famines ſword doth ſlay,</l>
+                     <l>And bear to th'grave a long, and languid way:</l>
+                     <pb n="17" facs="tcp:174826:12"/>
+                     <l>When all the feeding flore of houſe, barne, field,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ieads emptineſſe, and can no ſuccour yeeld.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 10. Mother, whoſe bowels boyl'd with paſſionate heat.</l>
+                     <l>Sore hunger-ſmit, their infants boyl'd for meat.</l>
+                     <l>What mothers belly nine months had ſod in bloud,</l>
+                     <l>Is cookt and ſod for that ſame beilies food:</l>
+                     <l>So great a famine, ſuch a deep diſtreſſe</l>
+                     <l>The daughter of my people doth oppreſſe</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 11. Now hath the Lord his fury brought to paſſe,</l>
+                     <l>Powr'd out his wrath which long ſince threatned was,</l>
+                     <l>When God kindles his fire, it burnes up all.</l>
+                     <l>Zions foundations into aſhes fall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 12. Kings far remote, which had receiv'd the fame,</l>
+                     <l>And earths Inhabitants which had heard the name</l>
+                     <l>Of great Jeruſalem, (how her forts and towers</l>
+                     <l>Scorned all feares of ſtrongeſt adverſe powers)</l>
+                     <l>Never would theſe beleeve, nor could deviſe</l>
+                     <l>How any foe or force ſhould it ſurpriſe.</l>
+                     <l>Amongſt Impoſſibles this thing was thought,</l>
+                     <l>That Sion ſhould to ruine ere be brought.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 13. Her<note n="(m)" place="bottom">Animarum medici fuerunt animarum venefici. <hi>Tarnovius.</hi>
+                        </note> Prophets moſt unprofitable were,</l>
+                     <l>No ſope, no nitre can her Prieſts waſh cleare</l>
+                     <l>From guiltineſſe of ſins, which were the cauſe</l>
+                     <l>That all did end with ſuch a bloudy clauſe.</l>
+                     <l>By them the juſt were ſlaughter'd in the Land,</l>
+                     <l>Whoſe bloud ſhall be required at their hand,</l>
+                     <l>For their examples full of ſinne and vice</l>
+                     <l>Fill'd others, made ſins meaſure fully riſe:</l>
+                     <l>To Idols theſe did innocent infants ſlay.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 14. In the<note n="(n)" place="bottom">This place in theſe two Verſes is very hard to finde out the true ſenſe of, I have choſen out of ſeverall ex<g ref="char:EOLhyphen"/>poſitors what I judged moſt ſimple and beſt, becauſe there are divers applying of the words.</note> ſtreets full of bloud as blind they ſtray,</l>
+                     <l>Legall pollutions no way can they avoid.</l>
+                     <l>Where ere they touch their clothes are ſmeard with bloud.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 15. Yet even as lepets, as they walk they cry,</l>
+                     <l>Uncleane, Uncleane, keep off, O come not nye:</l>
+                     <l>The very Gentiles ſaid, Sure God no more</l>
+                     <l>Will ſuch curſt wretches to their land reſtore:</l>
+                  </lg>
+                  <pb n="18" facs="tcp:174826:13"/>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 16. God in his fury hath diſperſt them farre,</l>
+                     <l>They have loſt his guarding, and regarding care.</l>
+                     <l>The holy Prieſts with them had no reſpect,</l>
+                     <l>The hoarie Elders honour was neglect.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 17. Alas (deceiving hopes) our eyes with paine</l>
+                     <l>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ate like our pulſes, whiles we looke in vaine,</l>
+                     <l>Waiting for help from nations witherd hand,</l>
+                     <l>As if whom heaven throwes down earth could make ſtand</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 18. Our ſteps they trace, and nets in every ſtreet</l>
+                     <l>Our hunting Nimrods laid to catch our feet.</l>
+                     <l>Our<note n="(o)" place="bottom">An evill, an onely evill, behold is come. An end is come, the end is come, it watch<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> for thee, behold it is come, <hi>Ezek.</hi> 7.5, 6.</note> and, our end drawes neere, heavens deſtin'd doom</l>
+                     <l>Our ſins have ripened wrath the day is come.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 19. Like Eagles aieric tyrants, birds of prey,</l>
+                     <l>So are our enemies ſwift-wing'd us to ſlay</l>
+                     <l>And us ſlow-flighted fowle purſuing o're-take</l>
+                     <l>On mountaines, or entrap by lying waite</l>
+                     <l>In the wild deſart.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 20.<note n="(p)" place="bottom">Some apply this <hi>Chriſtus Domini,</hi> as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ant of Chriſt. Others will have it meant to be <hi>Ioſias</hi> wounded and ſlaine by <hi>Pharaoh <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ho.</hi> Thus the Chaldee, Hebrew, Hierome, Thomas, Figueiro, Varablus. Others take <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o be meant of <hi>Zedekiah,</hi> and that more truely. Some Hebrewes, Maldonat. Tarno<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s, Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dati.</note> Our anointed King</l>
+                     <l>Given by the Lord, our ſoules next deareſt thing</l>
+                     <l>Noſtriſs beſt breath, their pits did him devoure,</l>
+                     <l>Whoſe covering wings we counted refuge ſure,</l>
+                     <l>Looking his ſhadow would us ſafety give</l>
+                     <l>Amongſt the Heathen, in hopes againe to live.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 21. Goe to, O daughter of Edom, laugh a while,</l>
+                     <l>Mocke on Inhabitant of Uz, and ſmile,</l>
+                     <l>Fleering at our ſo ſad, ſo low eſtate.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſhalt thou not Gods cup of wrath eſcape.</l>
+                     <l>It's comming towards thee, thou ſhalt drunken lie,</l>
+                     <l>Showing thy nakedneſſe to every eye.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 22. Chaere up O Sion, now the Lord hath done</l>
+                     <l>His taske of Juſtice, all his wrath is gone.</l>
+                     <l>What puniſhments on thee he did intend</l>
+                     <l>To inflict for ſin, are finiſht, at an end.</l>
+                     <l>Never againe ſhalt thou ſo deſolate be</l>
+                     <l>Tranſported, carried in captivity.</l>
+                     <pb n="19" facs="tcp:174826:13"/>
+                     <l>But thou<note n="(q)" place="bottom">
+                           <hi>Panae Sionis tandem fient Babylonis.</hi> Judgement muſt begin at the houſe of God: and if it firſt begin at us, what ſhall be the end of them that obey not the Goſpell of God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 1 <hi>Pet.</hi> 4.17.</note> O daughter of Edom that didſt ſtand</l>
+                     <l>Laughing at Sion, ſhalt ſore feele the hand</l>
+                     <l>Of God, for all thy ſins correcting thee,</l>
+                     <l>Laying on thine head thine owne iniquity.</l>
+                     <l>God in his people will ſinne ſcourge and hate,</l>
+                     <l>Much leſſe ſhall ſinfull Edom ſcourging ſcape.</l>
+                  </lg>
+               </div>
+               <div type="biblical_text">
+                  <pb n="15" facs="tcp:174826:11"/>
+                  <q>
+                     <p>
+                        <hi>Verſe. 1</hi> HOw is the gold become dim! how is the moſt fine gold chan<g ref="char:EOLhyphen"/>ged! the ſtones of the Sanctitary are powred out in the top of every ſtreet.</p>
+                     <p>
+                        <hi>Verſe. 2.</hi> The procious ſons of Zion, compa<g ref="char:EOLhyphen"/>rable to fine gold, how are they eſtea<g ref="char:EOLhyphen"/>med as earthen pitchers, the worke of the hands of the potter.</p>
+                     <p>
+                        <hi>Verſe. 3.</hi> Even the ſea monſters draw out the breſt, they give ſucke to their young ones: the daughter of my peo<g ref="char:EOLhyphen"/>ple is become cruell, like the oſtri<g ref="char:EOLhyphen"/>ches in the wilderneſſe.</p>
+                     <p>
+                        <hi>Verſe. 4.</hi> The tongue of the ſucking child cleaveth to the roofe of his mouth for thirſt: the young children aske bread, and no man breaketh it unto them.</p>
+                     <pb n="16" facs="tcp:174826:12"/>
+                     <p>
+                        <hi>Verſe. 5.</hi> They that did feed delicately are deſolate in the ſtreets: they that were brought up in ſearlet, embrace dunghills.</p>
+                     <p>
+                        <hi>Verſe. 6.</hi> For the puniſhment of the ini<g ref="char:EOLhyphen"/>quity of the daughter of my people, is gre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>er then the puniſhment of the ſin of Sodom, that was over throwne as in a moment, and no hand ſtayed on her.</p>
+                     <p>
+                        <hi>Verſe. 7.</hi> Her Nazarites were pure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> then ſnow, they were whiter then milke, they were more ruddy in body then rubies, their poliſhing was of Saphire.</p>
+                     <p>
+                        <hi>Verſe. 8.</hi> Their viſage is blacker then a coale: they are not knowne in the ſtreets their skin cleaveth to their hones: it is withered, it is become like a ſticke.</p>
+                     <p>
+                        <hi>Verſe. 9.</hi> They that be ſlaine with the ſword, we better then they that bee ſlaine with hunger: for theſe pine a<g ref="char:EOLhyphen"/>way,
+<pb n="17" facs="tcp:174826:12"/>ſtricken thorow for want of the fruits of the field.</p>
+                     <p>
+                        <hi>Verſe. 10.</hi> The hands of the pitifull wo<g ref="char:EOLhyphen"/>men have ſodden their own children, they were their meat in the deſtru<g ref="char:EOLhyphen"/>ction of the daughter of my people.</p>
+                     <p>
+                        <hi>Verſe. 11.</hi> The Lord hath accompliſhed his jury, be hath powred out his fierce anger, he hath kindled a fire in Z<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>, and it hath devoured the foundati<g ref="char:EOLhyphen"/>ons thereof.</p>
+                     <p>
+                        <hi>Verſe. 12.</hi> The Kings of the earth, and all the inhabitants of the world would not have beleeved, that the adverſa<g ref="char:EOLhyphen"/>ry and the enemy ſhould have entred into the gates of Ieruſalem.</p>
+                     <p>
+                        <hi>Verſe. 13.</hi> For the ſins of her Prophets, and the iniquities of her Prieſts, th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> here ſhed the bloud of the juſt in the midſt of her.</p>
+                     <p>
+                        <hi>Verſe. 14.</hi> They have wandred as blind men in the ſtreets, they have pollu<g ref="char:EOLhyphen"/>ted themſelves with bloud, ſo the men could not couth their garments.</p>
+                     <p>
+                        <hi>Verſe. 15.</hi> They cryed unto them; Depart ye, it is uncleane, depart, de<g ref="char:EOLhyphen"/>part, touch not, when they fled away and wandred: they ſaid among the heathen, They ſhall no m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re ſoſourne there.</p>
+                     <pb n="18" facs="tcp:174826:13"/>
+                     <p>
+                        <hi>Verſe. 16.</hi> The anger of the Lord hath divided them, he will no more regard them: they reſpected not the perſons of the Prieſts, they favoured not the Elders.</p>
+                     <p>
+                        <hi>Verſe. 17.</hi> As for us, our eyes as yet failed for our vaine help: in our watching we have watched for a na<g ref="char:EOLhyphen"/>tion that could not ſave us.</p>
+                     <p>
+                        <hi>Verſe. 18.</hi> They bunt our ſteps that we cannot goe in our ſtreets: our end is neere, our dayes are fulfilled, for our end is come.</p>
+                     <p>
+                        <hi>Verſe. 19.</hi> Our perſecutors are ſwifter then the Eagles of the heaven: they purſued us upon the mountaines, they laid waite for us in the wilderneſſe.</p>
+                     <p>
+                        <hi>Verſe. 20.</hi> The breath of our noſtrills, the anointed of the Lord was taken in their pits, of whom we ſaid, <g ref="char:V">Ʋ</g>nder his ſhadow we ſhall live among the heathen.</p>
+                     <p>
+                        <hi>Verſe. 21.</hi> Rejoyce and be glad O daugh<g ref="char:EOLhyphen"/>ter of Edom, that dwelleſt in the land of <g ref="char:V">Ʋ</g>z, the cup alſo ſhall paſſe thorow unto thee: thou ſhalt be drunken, and ſhalt make thy ſelfe naked.</p>
+                     <p>
+                        <hi>Verſe. 22.</hi> The puniſhment of thine ini<g ref="char:EOLhyphen"/>quity is accompliſhed, O daughter of Zion, he will no more carry thee
+<pb n="19" facs="tcp:174826:13"/>away into captivity he wil viſit thine iniquity, O daughter of Edom, he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> diſcover thy ſins.</p>
+                  </q>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <div type="paraphrase">
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 1 O Lord, behold what weight upon us lies,</l>
+                     <l>Eaſe this thy grievous hand with gracious eies</l>
+                     <l>Conſider how thou ſett'ſt us as the butt,</l>
+                     <l>Where wicked men reproaches dayly ſhoot.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 2. Our proper right, inheritance and lands</l>
+                     <l>Strangers poſſeſſe, they fall in aliens hands.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 3. Who ever ſaw orphans and fatherleſſe</l>
+                     <l>Uſed as threſholds, have ſeen our diſtreſſe:</l>
+                     <l>Our mothers mourne as thoſe in widow-hood.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 4. We lay out money for every peece of wood:</l>
+                     <l>A<note n="(r)" place="bottom">They ſhall eat bread by weight and with care, and they ſhall drink water by mea<g ref="char:EOLhyphen"/>ſure, and with aſtoniſhment, <hi>Ezek.</hi> 4.16.</note> very cup of water cannot come</l>
+                     <l>To quench our thirſt without a little ſumme.</l>
+                     <l>Both birds and beaſts at Natures Inne may call,</l>
+                     <l>Drinke at each brooke, and none for payment call:</l>
+                     <l>Better their caſe then ours, we are not thus,</l>
+                     <l>Even Natures Commons are inclos'd to us.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 5. Our neck doth crack with perſecutions weight,</l>
+                     <l>Paines ſpend the day, and reſtleſneſſe the night.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 6. We<note n="(s)" place="bottom">All the labour of man is for his mouth and yet the appetite is not filled, <hi>Eccleſ.</hi> 6.7.</note> ſold our ſelves to the Egyptians ſide,</l>
+                     <l>And to the Aſſyrians, to be ſatisfied</l>
+                     <l>With bellies full of meat.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 7. Our fathers<note n="(t)" place="bottom">God cleares his juſtice, puniſhing the children of ſinfull parents, <hi>Ezek.</hi> 18.2, 3. &amp;c.</note> laid</l>
+                     <l>Theſe egges of ſin, which are our dinner made:</l>
+                     <pb n="20" facs="tcp:174826:14"/>
+                     <l>Our Anceſtors (now dead) the grapes did eate,</l>
+                     <l>Our teeth are edg'd, their ſins their ſons now beate.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 8. Though we be free-men, ſlaves do us command,</l>
+                     <l>Nor's any left to help us from their hand.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 9. With danger of curlives our bread we bought,</l>
+                     <l>When we ſought meat, the ſword us alſo ſought,</l>
+                     <l>And watched for us in the wilderneſſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 10. Our skin the covering garment of the fleſh,</l>
+                     <l>All comely, beauteous hew it quite forſcoke,</l>
+                     <l>As<note n="(n)" place="bottom">Anieulae caminariae ſimilis ex incendii ſuiigine extit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>: proſundis rugis ſplendida prius &amp; ſuavis t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n facies eſt atata. Nicetas choniat. in Annal. in deploratione urbis Byzantii.</note> heated oven grown blacke with ſmudge and ſmooke,</l>
+                     <l>So was it blackned by the famines force,</l>
+                     <l>With<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ring the body, hind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing natures courſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 11. Beſides our enemies (for to let us ſee</l>
+                     <l>A perfect Map of miſery) goatiſh be.</l>
+                     <l>Raviſhing Zions women in the heate</l>
+                     <l>Of their moſt luſtfull rage: poore maids intreat</l>
+                     <l>In Judahs cities, not t'unlock their ſhame,</l>
+                     <l>Defloured, they depart who Virgins came.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 12. Every degree had ſhare in miſchief<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s lot,</l>
+                     <l>The Princes were hang'd up and ſcaped not.</l>
+                     <l>None gave reſpectfull reverence to the face</l>
+                     <l>Of graveſt Elders, their account was baſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 13. They caus'd our<note n="(w)" place="bottom">It ſeems they made their children ſlaves in piſtrino molam vertere, and for the Kitchen faſces ligni portate.</note> young men toil in ſervile</l>
+                     <l>Drudging as ſlaves, to turne the mill and grinde.</l>
+                     <l>What cruell hand will weaklings ſhoulders try</l>
+                     <l>With leaden load? yet our poore children ery,</l>
+                     <l>And crying fall, contending all in vaine,</l>
+                     <l>Their wood and fagots burdens to ſuſtaine.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 14. Had great Jeruſalem a comelier ſight,</l>
+                     <l>Then when the Elders in<note n="(x)" place="bottom">Hieron. in Zach. cap. 8. The Iudges and Elders uſed to ſit in the gates of the City, Ruth 4. 1 Zach. 8.16. The reaſon is ren<g ref="char:EOLhyphen"/>dred for eaſier diſpatch of Iuſtice, that countrey-men need not be at coſt to goe for into the city.</note> her gates did meet,</l>
+                     <l>To weight in ſeales of equity right and wrong,</l>
+                     <l>Aiding weake poore, againſt oppreſſors ſtrong?</l>
+                     <l>Now all the ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ts are empty, no furr'd gowne,</l>
+                     <l>Or ſcarlet robe, lifts up right cauſe caſt downe.</l>
+                     <l>The ſportfull youth, which made the ſtreets reſound</l>
+                     <l>With<note n="(y)" place="bottom">A ſigne of de ſolation it is when in a city there is heard no voyce of harpers, muſicians or pipers. Rev. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </note> muſick, now lament, all mirth is drown'd,</l>
+                     <pb n="21" facs="tcp:174826:14"/>
+                     <l>Never a merry twang of harp or lute</l>
+                     <l>Is heard, the ſtroke of ſorrow ſtrikes all mute.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 15. Our hearts and joy break off acquaintance all,</l>
+                     <l>Our dance is done, to m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ning now we fall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 16. The<note n="(z)" place="bottom">The glory and excellency of a people is ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ties called cornu, ſomtimes coron<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Prov. 49 Eſay 28. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Ezek. 16.12. Phil. 4 1. 1 Theſ. 2, 19.</note> erowne of glory which adorn'd our head</l>
+                     <l>Is falne and with it all our glory fled.</l>
+                     <l>Woe, woe to us, whoſe ſins create this croſſe</l>
+                     <l>Of miſeries higheſt gaine, joyes d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>peſt loſſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 17. For this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur heart is faint, this dims our eye,</l>
+                     <l>Weeping, and waiting long for remedy.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 18. Alas poore Zion, who can ſpare his eyes,</l>
+                     <l>Seeing how deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>late thy m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>untaine lies?</l>
+                     <l>Where beſt of men frequented, now the beaſts,</l>
+                     <l>And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>avening<note n="(a)" place="bottom">A deſolate place is called a habitation for foxes, Pſal, 63.10, becau<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> they and other beaſts that are hunted, doe not ordina<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ily haunt places where men doe frequently live <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> converſe,</note> Foxes make their dens and neſts.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 19. Such is the fickle ſtate of humane things</l>
+                     <l>Compos'd of mutables, where each day brings</l>
+                     <l>Exchanging paſſages of joy and ſorrow,</l>
+                     <l>This dayes ſucceſſe, exceſſe of griefe to morrow:</l>
+                     <l>But Lord thou doſt remaine the ſame for ever,</l>
+                     <l>
+                        <note n="(b)" place="bottom">I am the Lord, I change not; therefore ye ſons of Iacob are not conſumed Mal, 3, 6,</note> Immutable and changeleſſe altogether,</l>
+                     <l>Thou haſt a ſtable kingdome, ſteddy throne,</l>
+                     <l>Laſting beyond laſt generation.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 20. Why doſt thou Lord ſhut up thy gates of love</l>
+                     <l>For ever? Shall we never once more prove</l>
+                     <l>Thy truth and goodneſſe? Canſt thou ſo forſake</l>
+                     <l>Us like to ſtrangers, and no notice take?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 21. Return O<note n="(c)" place="bottom">
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> nob is, tihi nos, Deus ô converte preeamur, Make us glad according to the dayes wherein thou haſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> flicted us, and the yeares wherein we have ſeen evill, pſal, 90, 15,</note> Lord, &amp; turn our hearts to thee,</l>
+                     <l>And thine to us, ſo ſhall we turned be:</l>
+                     <l>Renew thoſe dayes of peace we had before,</l>
+                     <l>O let thy grace thy ſervants now reſtore.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Verſe.</hi> 22. But O our dying hopes, thy vengefull wrath</l>
+                     <l>Quite caſts us off: Lord make us live by faith.</l>
+                  </lg>
+               </div>
+               <div type="biblical_text">
+                  <pb n="19" facs="tcp:174826:13"/>
+                  <q>
+                     <p>
+                        <hi>Verſe. 1.</hi> REmember, O Lord, what is come upon us: conſider and behold our reproach.</p>
+                     <p>
+                        <hi>Verſe. 2.</hi> Our inheritance is turned un<g ref="char:EOLhyphen"/>to ſtrangers, our houſes to aliants.</p>
+                     <p>
+                        <hi>Verſe. 3.</hi> We are o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>phanes and father<g ref="char:EOLhyphen"/>leſſe, our mothers are as widowes.</p>
+                     <p>
+                        <hi>Verſe. 4.</hi> We have d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>unken our water for money, our wood is ſold unto us.</p>
+                     <p>
+                        <hi>Verſe. 5.</hi> Our necks are under perſecu<g ref="char:EOLhyphen"/>tion: we labour and have no reſt.</p>
+                     <p>
+                        <hi>Verſe. 6.</hi> We have given the hand to the Egyptians, and to the Aſſyrians, to be ſatisfied with bread.</p>
+                     <p>
+                        <hi>Verſe. 7.</hi> Our fathers have ſinned and
+<pb n="20" facs="tcp:174826:14"/>are not, and we have borne their in<g ref="char:EOLhyphen"/>quity.</p>
+                     <p>
+                        <hi>Verſe. 8.</hi> Servants have ruled over us: there is none that doth deliver us our of their hand.</p>
+                     <p>
+                        <hi>Verſe. 9.</hi> Wee gate our bread with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erill f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>our lives, becauſe of the wilderneſſe.</p>
+                     <p>
+                        <hi>Verſe. 10.</hi> Our skin wash <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>acke like an oven, becauſe of the terri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le famine.</p>
+                     <p>
+                        <hi>Verſe. 11.</hi> They raviſhed the women in Zion, and the maides in the cities of Iudah.</p>
+                     <p>
+                        <hi>Verſe. 12.</hi> Printes are hanged up by their hand: the fares of the Elders were not honoured.</p>
+                     <p>
+                        <hi>Verſe. 13.</hi> They tooke the young men to grinde, and the children f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll under the wood.</p>
+                     <p>
+                        <hi>Verſe. 14.</hi> The Elders have ceaſed from the gate, the young men from their muſicke.</p>
+                     <pb n="21" facs="tcp:174826:14"/>
+                     <p>
+                        <hi>Verſe. 15.</hi> The joy of our heart is <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſed, our dance is turned into m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ning.</p>
+                     <p>
+                        <hi>Verſe. 16.</hi> The crown is fallen from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> head: Woe unto us that wee <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſinned.</p>
+                     <p>
+                        <hi>Verſe. 17.</hi> For this our heart is fai<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> for theſe things our eyes are dim<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </p>
+                     <p>
+                        <hi>Verſe. 18.</hi> Becauſe of the mountaine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Zion, which is deſolate, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> wake upon it.</p>
+                     <p>
+                        <hi>Verſe. 19.</hi> Thou, O Lord, remain<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> for ever, thy throne from generati<g ref="char:EOLhyphen"/>on to generation.</p>
+                     <p>
+                        <hi>Verſe. 20.</hi> Wherefore doſt thou forg<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> us for ever, and forſake us ſo lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> time.</p>
+                     <p>
+                        <hi>Verſe. 21.</hi> Turne thou us unto thee, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Lord, and we ſhall be turned: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> our dayes as of old.</p>
+                     <p>
+                        <hi>Verſe. 22.</hi> But thou haſt utterly reje<g ref="char:EOLhyphen"/>cted us: thou art very wroth again<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> us.</p>
+                  </q>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
